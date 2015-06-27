@@ -1,0 +1,15 @@
+---
+title: Reducing INDEL calling errors in whole-genome and exome sequencing data
+subtitle: Genome Medicine
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: gm.header.png
+thumbnail: gm.tn.png
+alt: image-alt
+project-date: October 2014
+download: <a href="http://www.genomemedicine.com/content/pdf/s13073-014-0089-z.pdf">PDF</a> 
+category: Web Development
+description: In this study, we investigate sources of insertions and deletion (indel) errors and provide a guideline to effectively reduce such errors in genome sequencing. We also introduce a novel classification scheme of indels calls based off of Chi-Square scores and alternative allele coverage. You can view my presentation slides at the 2014 Biological Data Science meeting <a href="http://schatzlab.cshl.edu/presentations/2014.11.08.Indel%20Errors.pdf">here</a>. 
+
+---

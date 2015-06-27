@@ -1,0 +1,15 @@
+---
+title: Integrating precision medicine in the study and clinical treatment of a severely mentally ill person
+subtitle: PeerJ
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: pj.header.png
+thumbnail: pj.tn.png
+alt: image-alt
+project-date: October 2013
+download: <a href="https://peerj.com/articles/177.pdf">Paper</a> 
+category: Web Development
+description: This is the first study in the clinical neurosciences that integrates detailed neuropsychiatric phenotyping, deep brain stimulation for OCD and clinical-grade WGS with management of genetic results in the medical treatment of one person with severe mental illness. We offer this as an example of precision medicine in neuropsychiatry including brain-implantable devices and genomics-guided preventive health care.
+
+---
