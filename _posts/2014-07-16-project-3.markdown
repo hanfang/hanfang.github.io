@@ -1,15 +1,15 @@
 ---
-title: Integrating precision medicine in the study and clinical treatment of a severely mentally ill person
-subtitle: PeerJ
+title: Indel variant analysis of short-read sequencing data with Scalpel
+subtitle: Nature Protocols
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: pj.header.png
-thumbnail: pj.tn.png
+date: 2016-11-17
+img: np_header.png
+thumbnail: np_tn.png
 alt: image-alt
-project-date: October 2013
-download: <a href="https://peerj.com/articles/177.pdf">Paper</a> 
+project-date: November 2016
+download: <a href="http://www.nature.com/nprot/journal/v11/n12/pdf/nprot.2016.150.pdf">Paper</a>
 category: Web Development
-description: This is the first study in the clinical neurosciences that integrates detailed neuropsychiatric phenotyping, deep brain stimulation for OCD and clinical-grade WGS with management of genetic results in the medical treatment of one person with severe mental illness. We offer this as an example of precision medicine in neuropsychiatry including brain-implantable devices and genomics-guided preventive health care.
+description: As the second most common type of variation in the human genome, insertions and deletions (indels) have been linked to many diseases, but the discovery of indels of more than a few bases in size from short-read sequencing data remains challenging. Scalpel (http://scalpel.sourceforge.net) is an open-source software for reliable indel detection based on the microassembly technique. It has been successfully used to discover mutations in novel candidate genes for autism, and it is extensively used in other large-scale studies of human diseases. This protocol gives an overview of the algorithm and describes how to use Scalpel to perform highly accurate indel calling from whole-genome and whole-exome sequencing data.
 
 ---
