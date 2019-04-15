@@ -358,6 +358,10 @@ section h3.section-subheading {
     text-transform: none;
 }
 
+#profile-photo {
+    width: 30%;
+}
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
@@ -379,7 +383,7 @@ section h3.section-subheading {
     -moz-transition: all ease .5s;
     transition: all ease .5s;
     background: rgba(254,209,54,.9); /* Fallback when no plugin support */
-    background: rgba(254,209,54, .9);
+    background: rgba(fed136, .9);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
