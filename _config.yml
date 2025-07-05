@@ -24,23 +24,17 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Han Fang"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : # "Earth"
+  # pronouns         : # example: "she/her"  
+  bio              : "LLM Post-training and Research"
+  # location         : # "Earth"
   employer         : "AGI Foundations, Meta"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : hanfang.info # URL
+  email            : "hanfang.info@gmail.com" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  # arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=mQIqIVwAAAAJ"
+  orcid            : "https://orcid.org/0000-0002-4010-2525"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
