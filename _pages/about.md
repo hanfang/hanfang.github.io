@@ -12,10 +12,16 @@ Han Fang is a Research Lead on Core LLM in the AI Frontier org at Meta. In 2023-
 
 Han holds a PhD in Applied Mathematics and has published in top-tier venues with 7500+ citations. He is a recipient of the President’s Award to Distinguished Doctoral Students, the Woo-Jong Kim Dissertation Award, and the Excellence in Research Award.
 
-Selected Projects
+Selected Recemt Projects
 ======
-- Launched [Llama 3 on Meta AI](https://ai.meta.com/blog/meta-llama-3/) and subsequently [Llama 3.1](https://ai.meta.com/blog/meta-llama-3-1/).
-- Launched [Llama 2](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/) on [Meta AI](https://www.meta.ai/). Watch [my talk at Meta's Connect Conference](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) in 2023.
+* **Multi-IF: Benchmarking LLMs on Multi-Turn and Multilingual Instructions Following**  
+  Yun He, Di Jin, Chaoqi Wang, Chloe Bi, Karishma Mandyam, Hejia Zhang, Chen Zhu, Ning Li, Tengyu Xu, Hongjiang Lv, Shruti Bhosale, Chenguang Zhu, Karthik Abinav Sankararaman, Eryk Helenowski, Melanie Kambadur, Aditya Tayade, Hao Ma, **Han Fang**, Sinong Wang* · arXiv 2025 · [PDF](https://arxiv.org/abs/2410.15553)
+* **The perfect blend: Redefining RLHF with mixture of judges**  
+  Tengyu Xu, Eryk Helenowski, Karthik Abinav Sankararaman, Di Jin, Kaiyan Peng, Eric Han, Shaoliang Nie, Chen Zhu, Hejia Zhang, Wenxuan Zhou, Zhouhao Zeng, Yun He, Karishma Mandyam, Arya Talabzadeh, Madian Khabsa, Gabriel Cohen, Yuandong Tian, Hao Ma, Sinong Wang, **Han Fang** · arXiv 2025 · [PDF](https://arxiv.org/abs/2409.20370)
+
+* Launched [Llama 3 on Meta AI](https://ai.meta.com/blog/meta-llama-3/) and subsequently [Llama 3.1](https://ai.meta.com/blog/meta-llama-3-1/). 
+
+* Launched [Llama 2](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/) on [Meta AI](https://www.meta.ai/). Watch [my talk at Meta's Connect Conference](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) in 2023.
  
 For more information, please see:
 - [Google Scholar](https://scholar.google.com/citations?user=mQIqIVwAAAAJ)
