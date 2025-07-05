@@ -255,9 +255,6 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-# hide the hamburger on the top right 
-yaml<br>minimal_mistakes_skin: default # already there<br>sass:<br> style: compressed # keep whatever value you had<br>
-
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
