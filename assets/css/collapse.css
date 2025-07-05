@@ -15,3 +15,9 @@
     display: none;
     padding : 5px;
 }
+/* Hide hamburger menu button */
+.hamburger,
+.navbar-toggler,
+.menu-toggle {
+    display: none !important;
+}
