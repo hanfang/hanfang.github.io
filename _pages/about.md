@@ -24,13 +24,13 @@ Selected Recent Projects
   *Yiqing Xie, Wenxuan Zhou, Pradyot Prakash, Di Jin, Yuning Mao, Quintin Fettes, Arya Talebzadeh, Sinong Wang, **Han Fang**, Carolyn Rose, Daniel Fried, Hejia Zhang* · ACL 2025 · [PDF](https://arxiv.org/abs/2410.18359)  -->
 
 * **Think Smarter not Harder: Adaptive Reasoning with Inference Aware Optimization**  
-  *Zishun Yu, Tengyu Xu, Di Jin, Karthik Abinav Sankararaman, Yun He, Wenxuan Zhou, Zhouhao Zeng, Eryk Helenowski, Chen Zhu, Sinong Wang, Hao Ma, **Han Fang*** · [ICML](https://arxiv.org/abs/2501.17974) 2025 
+  *Zishun Yu, Tengyu Xu, Di Jin, Karthik Abinav Sankararaman, Yun He, Wenxuan Zhou, Zhouhao Zeng, Eryk Helenowski, Chen Zhu, Sinong Wang, Hao Ma, **Han Fang*** · [**ICML**](https://arxiv.org/abs/2501.17974) 2025 
 
 * **Multi-IF: Benchmarking LLMs on Multi-Turn and Multilingual Instructions Following**  
-  *Yun He, Di Jin, Chaoqi Wang, Chloe Bi, Karishma Mandyam, Hejia Zhang, Chen Zhu, Ning Li, Tengyu Xu, Hongjiang Lv, Shruti Bhosale, Chenguang Zhu, Karthik Abinav Sankararaman, Eryk Helenowski, Melanie Kambadur, Aditya Tayade, Hao Ma, **Han Fang**, Sinong Wang* · arXiv 2024 · [PDF](https://arxiv.org/abs/2410.15553)
+  *Yun He, Di Jin, Chaoqi Wang, Chloe Bi, Karishma Mandyam, Hejia Zhang, Chen Zhu, Ning Li, Tengyu Xu, Hongjiang Lv, Shruti Bhosale, Chenguang Zhu, Karthik Abinav Sankararaman, Eryk Helenowski, Melanie Kambadur, Aditya Tayade, Hao Ma, **Han Fang**, Sinong Wang* · [arXiv](https://arxiv.org/abs/2410.15553) 2024
 
 * **The perfect blend: Redefining RLHF with mixture of judges**  
-  *Tengyu Xu, Eryk Helenowski, Karthik Abinav Sankararaman, Di Jin, Kaiyan Peng, Eric Han, Shaoliang Nie, Chen Zhu, Hejia Zhang, Wenxuan Zhou, Zhouhao Zeng, Yun He, Karishma Mandyam, Arya Talabzadeh, Madian Khabsa, Gabriel Cohen, Yuandong Tian, Hao Ma, Sinong Wang, **Han Fang*** · arXiv 2024 · [PDF](https://arxiv.org/abs/2409.20370)
+  *Tengyu Xu, Eryk Helenowski, Karthik Abinav Sankararaman, Di Jin, Kaiyan Peng, Eric Han, Shaoliang Nie, Chen Zhu, Hejia Zhang, Wenxuan Zhou, Zhouhao Zeng, Yun He, Karishma Mandyam, Arya Talabzadeh, Madian Khabsa, Gabriel Cohen, Yuandong Tian, Hao Ma, Sinong Wang, **Han Fang*** · [arXiv]](https://arxiv.org/abs/2409.20370) 2024
 
 * **Launched [Llama 3 on Meta AI](https://ai.meta.com/blog/meta-llama-3/) and subsequently Llama 3.1**.  
   [Meta AI Blog Post](https://ai.meta.com/blog/meta-llama-3-1/)
