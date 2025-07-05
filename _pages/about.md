@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Han Fang"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,8 @@ Han holds a PhD in Applied Mathematics and has published in top-tier venues with
 
 Selected Projects
 ======
-- Launched [Llama 2 on Meta AI](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/). Watch [my talk at Meta's Connect Conference](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/)
+- Launched [Llama 3 on Meta AI]((https://ai.meta.com/blog/meta-llama-3/) and subsequently [Llama 3.1](https://ai.meta.com/blog/meta-llama-3-1/).
+- Launched [Llama 2](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/) on [Meta AI](https://www.meta.ai/). Watch [my talk at Meta's Connect Conference](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) in 2023.
  
 For more information, please see:
 - [Google Scholar](https://scholar.google.com/citations?user=mQIqIVwAAAAJ)
