@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Han Fang: Artificial intelligence"
+title                    : "Han Fang"
 title_separator          : "-"
 name                     : &name "Han Fang"
 description              : &description "personal description"
