@@ -17,17 +17,24 @@ Han holds a PhD in Applied Mathematics and has published in top-tier venues with
 
 News
 ======
+
+* **Meta AI reached MAU in Dec 2024 and in 1 billion MAU in May 2025**.  
+  Improved Meta AI's multilinguality, enabled the roll-out to 12 languages and 40+ countries. [Meta AI Blog Post](https://ai.meta.com/blog/future-of-ai-built-with-llama/) / [News](https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/)
+
+* **Launched the voice mode and photo editing in Meta AI at Connect 2024**  
+  Improved Llama 3 models for voice use cases. Added a new photo editing feature with improved Planner. [Meta AI Blog Post](https://about.fb.com/news/2024/09/metas-ai-product-news-connect/)
+
 * **Launched [Llama 3 on Meta AI](https://ai.meta.com/blog/meta-llama-3/) and subsequently Llama 3.1**.  
-  Meta AI is an intelligent assistant that is capable of complex reasoning, following instructions, visualizing ideas, and solving nuanced problems. [Meta AI Blog Post](https://ai.meta.com/blog/meta-llama-3-1/)
+  Improved Meta AI on complex reasoning, following instructions, visualizing ideas, and solving nuanced problems. [Meta AI Blog Post](https://ai.meta.com/blog/meta-llama-3-1/)
 
 * **Launched [Llama 2](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/) on [Meta AI](https://www.meta.ai/)**.  
-  Meta AI is an advanced conversational assistant on Family of Apps and Ray-Ban Meta. It can give you real-time information and generate photorealistic images. [My talk at Meta's Connect Conference](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) in 2023
+  Launched the post-training team in launching Meta AI to Family of Apps and Ray-Ban Meta. It can give you real-time information and generate photorealistic images. My talk at [Meta's Connect Conference](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) (2023)
 
-* **Built and deployed Meta AI Few-Shot Learner (FSL) that can adapt to new or evolving types of harmful content.**  
-  It not only works in more than 100 languages, but also learns from images and text, and strengthen existing AI models to detect new forms of harmful content. [Meta AI Blog Post](https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/)
+* **Built and deployed Meta AI Few-Shot Learner (FSL) that can adapt to new types of harmful content.**  
+  FSL can work in more than 100 languages, learns from images and text, and detects new forms of harmful content. [Meta AI Blog Post](https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/)
 
 * **Training AI to detect hate speech in the real world**  
-  Built and deployed an innovative system called Reinforcement Integrity Optimizer (RIO), a RL based framework to end-to-end optimize hate speech classifiers. [Meta AI Blog Post](https://ai.meta.com/blog/training-ai-to-detect-hate-speech-in-the-real-world/)
+  Built a RL based framework to end-to-end optimize hate speech classifiers. [Meta AI Blog Post](https://ai.meta.com/blog/training-ai-to-detect-hate-speech-in-the-real-world/)
 
 Recent Papers
 ======
