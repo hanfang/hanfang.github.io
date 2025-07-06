@@ -23,7 +23,7 @@ News
 * **Launched [Llama 2](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/) on [Meta AI](https://www.meta.ai/)**.  
   [My talk at Meta's Connect Conference](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) in 2023
 
-* **We built and deployed Meta AI [Few-Shot Learner (FSL)](https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/) that can adapt to new or evolving types of harmful content within days instead of months.**
+* **Built and deployed Meta AI [Few-Shot Learner (FSL)](https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/) that can adapt to new or evolving types of harmful content within days instead of months.**
   It not only works in more than 100 languages, but also learns from different kinds of data, such as images and text, and it can strengthen existing AI models that are already deployed to detect other types of harmful content.
 
 Recent Papers
