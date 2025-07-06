@@ -19,22 +19,22 @@ News
 ======
 
 * **Meta AI reached MAU in Dec 2024 and in 1 billion MAU in May 2025**.  
-  Improved Meta AI's multilinguality, enabled the roll-out to 12 languages and 40+ countries. [Meta AI Blog Post](https://ai.meta.com/blog/future-of-ai-built-with-llama/) / [News](https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/)
+  Improved Meta AI's multilinguality, enabled the roll-out to 12 languages and 40+ countries. [Meta AI Blog Post](https://ai.meta.com/blog/future-of-ai-built-with-llama/) / [News](https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/) (2025)
 
 * **Launched the voice mode and photo editing in Meta AI at Connect 2024**  
-  Improved Llama 3 models for voice use cases. Added a new photo editing feature with improved Planner. [Meta AI Blog Post](https://about.fb.com/news/2024/09/metas-ai-product-news-connect/)
+  Improved Llama 3 models for voice use cases. Added a new photo editing feature with improved Planner. [Meta AI Blog Post](https://about.fb.com/news/2024/09/metas-ai-product-news-connect/)  (2024)
 
 * **Launched [Llama 3 on Meta AI](https://ai.meta.com/blog/meta-llama-3/) and subsequently Llama 3.1**.  
-  Improved Meta AI on complex reasoning, following instructions, visualizing ideas, and solving nuanced problems. [Meta AI Blog Post](https://ai.meta.com/blog/meta-llama-3-1/)
+  Improved Meta AI on complex reasoning, following instructions, visualizing ideas, and solving nuanced problems. [Meta AI Blog Post](https://ai.meta.com/blog/meta-llama-3-1/) (2024)
 
 * **Launched [Meta AI](https://www.meta.ai/) with an improved Llama 2 model**.  
-  Led the post-training team and launched Meta AI with an improved [Llama 2](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/) model to Family of Apps and Ray-Ban Meta. Created the Orchestrator and Planner to enable real-time information with search and generation of photorealistic images. My talk at [Meta's Connect Conference](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) (2023)
+  Led the post-training team and launched Meta AI with an improved [Llama 2](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/) model to Family of Apps and Ray-Ban Meta. Created the Orchestrator and Planner for tool use that enables real-time information with search and generation of photorealistic images. My talk at [Meta's Connect Conference](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) (2023)
 
 * **Developed Meta AI Few-Shot Learner (FSL) that can adapt to new types of harmful content.**  
-  Developed FSL which can work in more than 100 languages, learns from images and text, and detects new forms of harmful content. [Meta AI Blog Post](https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/)
+  Developed FSL which can work in more than 100 languages, learns from images and text, and detects new forms of harmful content. [Meta AI Blog Post](https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/) (2021)
 
 * **Training AI to detect hate speech in the real world**  
-  Built a RL based framework to end-to-end optimize hate speech classifiers. [Meta AI Blog Post](https://ai.meta.com/blog/training-ai-to-detect-hate-speech-in-the-real-world/)
+  Built a RL based framework to end-to-end optimize hate speech classifiers. [Meta AI Blog Post](https://ai.meta.com/blog/training-ai-to-detect-hate-speech-in-the-real-world/) (2020)
 
 Recent Papers
 ======
