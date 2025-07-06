@@ -32,11 +32,11 @@ Recent Papers
 * **Learning Auxiliary Tasks Improves Reference-Free Hallucination Detection in Open-Domain Long-Form Generation**  
   *Chengwei Qin, Wenxuan Zhou, Karthik Abinav Sankararaman, Nanshu Wang, Tengyu Xu, Alexander Radovic, Eryk Helenowski, Arya Talebzadeh, Aditya Tayade, Sinong Wang, Shafiq Joty, **Han Fang**, Hao Ma* · [**ACL**](https://arxiv.org/abs/2505.12265) (2025)
 
-* **Improving Model Factuality with Fine-grained Critique-based Evaluator**  
-  *Yiqing Xie, Wenxuan Zhou, Pradyot Prakash, Di Jin, Yuning Mao, Quintin Fettes, Arya Talebzadeh, Sinong Wang, **Han Fang**, Carolyn Rose, Daniel Fried, Hejia Zhang* · [**ACL**](https://arxiv.org/abs/2410.18359) 2025
-
 * **Think Smarter not Harder: Adaptive Reasoning with Inference Aware Optimization**  
   *Zishun Yu, Tengyu Xu, Di Jin, Karthik Abinav Sankararaman, Yun He, Wenxuan Zhou, Zhouhao Zeng, Eryk Helenowski, Chen Zhu, Sinong Wang, Hao Ma, **Han Fang*** · [**ICML**](https://arxiv.org/abs/2501.17974) 2025 
+
+* **Improving Model Factuality with Fine-grained Critique-based Evaluator**  
+  *Yiqing Xie, Wenxuan Zhou, Pradyot Prakash, Di Jin, Yuning Mao, Quintin Fettes, Arya Talebzadeh, Sinong Wang, **Han Fang**, Carolyn Rose, Daniel Fried, Hejia Zhang* · [**ACL**](https://arxiv.org/abs/2410.18359) 2025
 
 * **Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary Feedback**
   *Yen-Ting Lin, Di Jin, Tengyu Xu, Tianhao Wu, Sainbayar Sukhbaatar, Chen Zhu, Yun He, Yun-Nung Chen, Jason Weston, Yuandong Tian, Arash Rahnama, Sinong Wang, Hao Ma, **Han Fang*** · [arXiv](https://arxiv.org/abs/2501.10799) (2025)
