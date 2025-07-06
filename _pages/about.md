@@ -21,10 +21,10 @@ News
   Improved Meta AI's multilinguality, enabled the roll-out to 12 languages and 40+ countries. [Blog Post](https://ai.meta.com/blog/future-of-ai-built-with-llama/) / [News](https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/) (2025)
 
 * **Launched the voice mode and photo editing in Meta AI at Connect 2024**  
-  Launched an updated Llama 3 model for voice mode. Improved Planner to enable photo editing with mutimodal inputs. [Blog Post](https://about.fb.com/news/2024/09/metas-ai-product-news-connect/)  (2024)
+  Launched an updated Llama 3 model for voice mode. Improved Planner to enable photo editing with mutimodal inputs. [Blog Post](https://about.fb.com/news/2024/09/metas-ai-product-news-connect/) (2024)
 
 * **Launched [Llama 3 on Meta AI](https://ai.meta.com/blog/meta-llama-3/) and subsequently Llama 3.1**.  
-  Improved Meta AI on complex reasoning, following instructions, visualizing ideas, and solving nuanced problems, with a new online RL framework with [Mixture of Judges](https://arxiv.org/abs/2409.20370) [Blog Post](https://ai.meta.com/blog/meta-llama-3-1/) (2024)
+  Improved Meta AI on complex reasoning, following instructions, visualizing ideas, and solving nuanced problems, with a new online RL framework with [Mixture of Judges](https://arxiv.org/abs/2409.20370). [Blog Post](https://ai.meta.com/blog/meta-llama-3-1/) (2024)
 
 * **Launched [Meta AI](https://www.meta.ai/) with an improved Llama 2 model**.  
   Led the post-training team and launched Meta AI with an improved [Llama 2](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/) model to Family of Apps and Ray-Ban Meta. Created the Orchestrator and Planner for tool use that enables real-time information with search and image generation, and code execution. Developed a data flywheel for Reinforcement Learning from User Feedback. My talk at [Meta's Connect Conference](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) (2023)
