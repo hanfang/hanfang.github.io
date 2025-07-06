@@ -28,7 +28,7 @@ News
   Improved Meta AI on complex reasoning, following instructions, visualizing ideas, and solving nuanced problems. [Meta AI Blog Post](https://ai.meta.com/blog/meta-llama-3-1/)
 
 * **Launched [Llama 2](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/) on [Meta AI](https://www.meta.ai/)**.  
-  Launched the post-training team in launching Meta AI to Family of Apps and Ray-Ban Meta. It can give you real-time information and generate photorealistic images. My talk at [Meta's Connect Conference](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) (2023)
+  Launched the post-training team and launched Meta AI to Family of Apps and Ray-Ban Meta. It can give you real-time information and generate photorealistic images. My talk at [Meta's Connect Conference](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) (2023)
 
 * **Built and deployed Meta AI Few-Shot Learner (FSL) that can adapt to new types of harmful content.**  
   FSL can work in more than 100 languages, learns from images and text, and detects new forms of harmful content. [Meta AI Blog Post](https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/)
