@@ -12,7 +12,7 @@ Han Fang is a Research Lead in Core LLM at Meta's AI Frontier org. In 2023-2024,
 
 Han holds a PhD in Applied Mathematics and has published in top-tier venues with 7500+ citations. He is a recipient of the President’s Award to Distinguished Doctoral Students, the Woo-Jong Kim Dissertation Award, and the Excellence in Research Award.
 
-[Google Scholar](https://scholar.google.com/citations?user=mQIqIVwAAAAJ) · CV · [Linkedin](https://www.linkedin.com/in/hfang15/) · [Twitter](https://x.com/Han_Fang_)
+[Google Scholar](https://scholar.google.com/citations?user=mQIqIVwAAAAJ) / CV / [Linkedin](https://www.linkedin.com/in/hfang15/) / [Twitter](https://x.com/Han_Fang_)
 
 Selected Recent Projects
 ======
