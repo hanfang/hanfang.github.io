@@ -27,7 +27,7 @@ News
   It not only works in more than 100 languages, but also learns from images and text, and strengthen existing AI models to detect new forms of harmful content. [Meta AI Blog Post](https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/)
 
 * **Training AI to detect hate speech in the real world**  
-  Built and deployed an innovative system called Reinforcement Integrity Optimizer (RIO), a reinforcement learning based framework to end-to-end optimize hate speech classifiers. [Meta AI Blog Post](https://ai.meta.com/blog/training-ai-to-detect-hate-speech-in-the-real-world/)
+  Built and deployed an innovative system called Reinforcement Integrity Optimizer (RIO), a RL based framework to end-to-end optimize hate speech classifiers. [Meta AI Blog Post](https://ai.meta.com/blog/training-ai-to-detect-hate-speech-in-the-real-world/)
 
 Recent Papers
 ======
