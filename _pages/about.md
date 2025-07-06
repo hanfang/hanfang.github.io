@@ -31,7 +31,7 @@ News
   Led the post-training team and launched Meta AI with an improved [Llama 2](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/) model to Family of Apps and Ray-Ban Meta. Created the Orchestrator and Planner for tool use that enables real-time information with search and generation of photorealistic images. Developed a data flywheel for Reinforcement Learning from User Feedback. My talk at [Meta's Connect Conference](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) (2023)
 
 * **Developed Meta AI Few-Shot Learner (FSL) that can adapt to new types of harmful content.**  
-  Developed FSL which can work in 100+ languages, learns from images & text, and detects new forms of harmful content. [Blog Post](https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/) (2021)
+  Developed FSL which can work in 100+ languages, learns from images & text, and detects new forms of violations. [Blog Post](https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/) (2021)
 
 * **Training AI to detect hate speech in the real world**  
   Built a RL based framework to end-to-end optimize hate speech classifiers. [Blog Post](https://ai.meta.com/blog/training-ai-to-detect-hate-speech-in-the-real-world/) (2020)
