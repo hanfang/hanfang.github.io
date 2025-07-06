@@ -18,16 +18,16 @@ Han holds a PhD in Applied Mathematics and has published in top-tier venues with
 News
 ======
 * **Launched [Llama 3 on Meta AI](https://ai.meta.com/blog/meta-llama-3/) and subsequently Llama 3.1**.  
-  Meta AI is an intelligent assistant that is capable of complex reasoning, following instructions, visualizing ideas, and solving nuanced problems. [Meta AI Blog Post](https://ai.meta.com/blog/meta-llama-3-1/)
+  Meta AI is an intelligent assistant that is capable of complex reasoning, following instructions, visualizing ideas, and solving nuanced problems. / [Meta AI Blog Post](https://ai.meta.com/blog/meta-llama-3-1/)
 
 * **Launched [Llama 2](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/) on [Meta AI](https://www.meta.ai/)**.  
-  Meta AI is an advanced conversational assistant that’s available on Family of Apps, and Ray-Ban Meta smart glasses. It can give you real-time information and generate photorealistic images. [My talk at Meta's Connect Conference](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) in 2023
+  Meta AI is an advanced conversational assistant that’s available on Family of Apps, and Ray-Ban Meta smart glasses. It can give you real-time information and generate photorealistic images. / [My talk at Meta's Connect Conference](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) in 2023
 
 * **Built and deployed Meta AI Few-Shot Learner (FSL) that can adapt to new or evolving types of harmful content.**  
-  It not only works in more than 100 languages, but also learns from different kinds of data, such as images and text, and it can strengthen existing AI models that are already deployed to detect other types of harmful content. [Meta AI Blog Post](https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/)
+  It not only works in more than 100 languages, but also learns from different kinds of data, such as images and text, and it can strengthen existing AI models that are already deployed to detect other types of harmful content. / [Meta AI Blog Post](https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/)
 
 * **Training AI to detect hate speech in the real world**  
-  Built and deployed an innovative system called Reinforcement Integrity Optimizer (RIO). RIO is an end-to-end optimized reinforcement learning (RL) framework that is used to optimize hate speech classifiers. [Meta AI Blog Post](https://ai.meta.com/blog/training-ai-to-detect-hate-speech-in-the-real-world/)
+  Built and deployed an innovative system called Reinforcement Integrity Optimizer (RIO). RIO is an end-to-end optimized reinforcement learning (RL) framework that is used to optimize hate speech classifiers.  / [Meta AI Blog Post](https://ai.meta.com/blog/training-ai-to-detect-hate-speech-in-the-real-world/)
 
 Recent Papers
 ======
