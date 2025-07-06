@@ -24,7 +24,7 @@ News
   [My talk at Meta's Connect Conference](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) in 2023
 
 
-Selected Papers
+Recent Papers
 ======
 
 * **Learning Auxiliary Tasks Improves Reference-Free Hallucination Detection in Open-Domain Long-Form Generation**  
