@@ -38,11 +38,11 @@ Recent Papers
 * **Improving Model Factuality with Fine-grained Critique-based Evaluator**  
   *Yiqing Xie, Wenxuan Zhou, Pradyot Prakash, Di Jin, Yuning Mao, Quintin Fettes, Arya Talebzadeh, Sinong Wang, **Han Fang**, Carolyn Rose, Daniel Fried, Hejia Zhang* · [**ACL**](https://arxiv.org/abs/2410.18359) 2025
 
-* **Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary Feedback**
-  *Yen-Ting Lin, Di Jin, Tengyu Xu, Tianhao Wu, Sainbayar Sukhbaatar, Chen Zhu, Yun He, Yun-Nung Chen, Jason Weston, Yuandong Tian, Arash Rahnama, Sinong Wang, Hao Ma, **Han Fang*** · [arXiv](https://arxiv.org/abs/2501.10799) (2025)
-
 * **Multi-IF: Benchmarking LLMs on Multi-Turn and Multilingual Instructions Following**  
   *Yun He, Di Jin, Chaoqi Wang, Chloe Bi, Karishma Mandyam, Hejia Zhang, Chen Zhu, Ning Li, Tengyu Xu, Hongjiang Lv, Shruti Bhosale, Chenguang Zhu, Karthik Abinav Sankararaman, Eryk Helenowski, Melanie Kambadur, Aditya Tayade, Hao Ma, **Han Fang**, Sinong Wang* · [arXiv](https://arxiv.org/abs/2410.15553) 2024
+
+* **Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary Feedback**
+  *Yen-Ting Lin, Di Jin, Tengyu Xu, Tianhao Wu, Sainbayar Sukhbaatar, Chen Zhu, Yun He, Yun-Nung Chen, Jason Weston, Yuandong Tian, Arash Rahnama, Sinong Wang, Hao Ma, **Han Fang*** · [arXiv](https://arxiv.org/abs/2501.10799) (2025)
 
 * **The Perfect Blend: Redefining RLHF with mixture of judges**  
   *Tengyu Xu, Eryk Helenowski, Karthik Abinav Sankararaman, Di Jin, Kaiyan Peng, Eric Han, Shaoliang Nie, Chen Zhu, Hejia Zhang, Wenxuan Zhou, Zhouhao Zeng, Yun He, Karishma Mandyam, Arya Talabzadeh, Madian Khabsa, Gabriel Cohen, Yuandong Tian, Hao Ma, Sinong Wang, **Han Fang*** · [arXiv](https://arxiv.org/abs/2409.20370) 2024
