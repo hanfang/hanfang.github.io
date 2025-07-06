@@ -32,7 +32,7 @@ Selected Recent Projects
 * **The perfect blend: Redefining RLHF with mixture of judges**  
   *Tengyu Xu, Eryk Helenowski, Karthik Abinav Sankararaman, Di Jin, Kaiyan Peng, Eric Han, Shaoliang Nie, Chen Zhu, Hejia Zhang, Wenxuan Zhou, Zhouhao Zeng, Yun He, Karishma Mandyam, Arya Talabzadeh, Madian Khabsa, Gabriel Cohen, Yuandong Tian, Hao Ma, Sinong Wang, **Han Fang*** · [arXiv](https://arxiv.org/abs/2409.20370) 2024
 
-* ![test text](images/han_fang_2023.jpg) **Launched [Llama 3 on Meta AI](https://ai.meta.com/blog/meta-llama-3/) and subsequently Llama 3.1**.  
+* ![test text](images/500x300.png) **Launched [Llama 3 on Meta AI](https://ai.meta.com/blog/meta-llama-3/) and subsequently Llama 3.1**.  
   [Meta AI Blog Post](https://ai.meta.com/blog/meta-llama-3-1/)
 
 * **Launched [Llama 2](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/) on [Meta AI](https://www.meta.ai/)**.  
