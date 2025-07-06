@@ -42,5 +42,5 @@ Recent Papers
 * **Multi-IF: Benchmarking LLMs on Multi-Turn and Multilingual Instructions Following**  
   *Yun He, Di Jin, Chaoqi Wang, Chloe Bi, Karishma Mandyam, Hejia Zhang, Chen Zhu, Ning Li, Tengyu Xu, Hongjiang Lv, Shruti Bhosale, Chenguang Zhu, Karthik Abinav Sankararaman, Eryk Helenowski, Melanie Kambadur, Aditya Tayade, Hao Ma, **Han Fang**, Sinong Wang* · [arXiv](https://arxiv.org/abs/2410.15553) 2024
 
-* **The perfect blend: Redefining RLHF with mixture of judges**  
+* **The Perfect Blend: Redefining RLHF with mixture of judges**  
   *Tengyu Xu, Eryk Helenowski, Karthik Abinav Sankararaman, Di Jin, Kaiyan Peng, Eric Han, Shaoliang Nie, Chen Zhu, Hejia Zhang, Wenxuan Zhou, Zhouhao Zeng, Yun He, Karishma Mandyam, Arya Talabzadeh, Madian Khabsa, Gabriel Cohen, Yuandong Tian, Hao Ma, Sinong Wang, **Han Fang*** · [arXiv](https://arxiv.org/abs/2409.20370) 2024
