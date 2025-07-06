@@ -261,6 +261,8 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# the sun toggle
+enable_theme_toggle: false     # <- add (or change) this
 
 # # Plugins
 # plugins:
