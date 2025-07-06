@@ -22,7 +22,7 @@ News
   Improved Meta AI's multilinguality, enabled the roll-out to 12 languages and 40+ countries. [Meta AI Blog Post](https://ai.meta.com/blog/future-of-ai-built-with-llama/) / [News](https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/) (2025)
 
 * **Launched the voice mode and photo editing in Meta AI at Connect 2024**  
-  Launched an updated Llama 3 model for voice mode. Added a new photo editing feature with improved Planner. [Meta AI Blog Post](https://about.fb.com/news/2024/09/metas-ai-product-news-connect/)  (2024)
+  Launched an updated Llama 3 model for voice mode. Improved Planner to enable photo editing with mutimodal inputs. [Meta AI Blog Post](https://about.fb.com/news/2024/09/metas-ai-product-news-connect/)  (2024)
 
 * **Launched [Llama 3 on Meta AI](https://ai.meta.com/blog/meta-llama-3/) and subsequently Llama 3.1**.  
   Improved Meta AI on complex reasoning, following instructions, visualizing ideas, and solving nuanced problems. [Meta AI Blog Post](https://ai.meta.com/blog/meta-llama-3-1/) (2024)
