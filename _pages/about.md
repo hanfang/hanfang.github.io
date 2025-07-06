@@ -18,7 +18,7 @@ Han holds a PhD in Applied Mathematics and has published in top-tier venues with
 News
 ======
 * **Launched [Llama 3 on Meta AI](https://ai.meta.com/blog/meta-llama-3/) and subsequently Llama 3.1**.  
-  [Meta AI Blog Post](https://ai.meta.com/blog/meta-llama-3-1/)
+  Meta AI is an intelligent assistant that is capable of complex reasoning, following instructions, visualizing ideas, and solving nuanced problems. [Meta AI Blog Post](https://ai.meta.com/blog/meta-llama-3-1/)
 
 * **Launched [Llama 2](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/) on [Meta AI](https://www.meta.ai/)**.  
   [My talk at Meta's Connect Conference](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) in 2023
