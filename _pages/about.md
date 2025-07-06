@@ -37,7 +37,7 @@ Recent Papers
   *Zishun Yu, Tengyu Xu, Di Jin, Karthik Abinav Sankararaman, Yun He, Wenxuan Zhou, Zhouhao Zeng, Eryk Helenowski, Chen Zhu, Sinong Wang, Hao Ma, **Han Fang*** · [**ICML**](https://arxiv.org/abs/2501.17974) 2025 
 
 * **Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary Feedback**
-  *Yen-Ting Lin, Di Jin, Tengyu Xu, Tianhao Wu, Sainbayar Sukhbaatar, Chen Zhu, Yun He, Yun-Nung Chen, Jason Weston, Yuandong Tian, Arash Rahnama, Sinong Wang, Hao Ma, Han Fang* · [arXiv](https://arxiv.org/abs/2501.10799) (2025)
+  *Yen-Ting Lin, Di Jin, Tengyu Xu, Tianhao Wu, Sainbayar Sukhbaatar, Chen Zhu, Yun He, Yun-Nung Chen, Jason Weston, Yuandong Tian, Arash Rahnama, Sinong Wang, Hao Ma, **Han Fang*** · [arXiv](https://arxiv.org/abs/2501.10799) (2025)
 
 * **Multi-IF: Benchmarking LLMs on Multi-Turn and Multilingual Instructions Following**  
   *Yun He, Di Jin, Chaoqi Wang, Chloe Bi, Karishma Mandyam, Hejia Zhang, Chen Zhu, Ning Li, Tengyu Xu, Hongjiang Lv, Shruti Bhosale, Chenguang Zhu, Karthik Abinav Sankararaman, Eryk Helenowski, Melanie Kambadur, Aditya Tayade, Hao Ma, **Han Fang**, Sinong Wang* · [arXiv](https://arxiv.org/abs/2410.15553) 2024
