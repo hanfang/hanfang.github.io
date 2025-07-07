@@ -33,7 +33,7 @@ News
   Developed FSL which can work in 100+ languages, learns from images & text, and detects new forms of violations. [Blog Post](https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/) (2021)
 
 * **Training AI to detect hate speech in the real world**  
-  Built a RL based framework to end-to-end optimize hate speech classifiers. [Blog Post](https://ai.meta.com/blog/training-ai-to-detect-hate-speech-in-the-real-world/) (2020)
+  Built a RL based framework to E2E optimize hate speech classifiers. [Blog Post](https://ai.meta.com/blog/training-ai-to-detect-hate-speech-in-the-real-world/) (2020)
 
 Recent Papers
 ======
