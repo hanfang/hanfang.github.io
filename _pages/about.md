@@ -18,7 +18,7 @@ News
 ======
 
 * **Meta AI reached MAU in Dec 2024 and in 1 billion MAU in May 2025**.  
-  Improved Meta AI's multilinguality, enabled the roll-out to 12 languages and 40+ countries. [Blog Post](https://ai.meta.com/blog/future-of-ai-built-with-llama/) / [News](https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/) (2025)
+  Improved Meta AI's [multilinguality](https://about.fb.com/news/2024/07/meta-ai-is-now-multilingual-more-creative-and-smarter/), enabled the roll-out to 12 languages and 40+ countries. [Blog Post](https://ai.meta.com/blog/future-of-ai-built-with-llama/) / [News](https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/) (2025)
 
 * **Launched the voice mode and photo editing in Meta AI at Connect 2024**  
   Launched an updated Llama 3 model for voice mode. Improved Planner to enable photo editing with mutimodal inputs. [Blog Post](https://about.fb.com/news/2024/09/metas-ai-product-news-connect/) (2024)
