@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Han Fang is a Research Lead in Core LLM at Meta’s AI Frontier org. In 2023-2024, he was a Senior Research Manager and led Meta AI’s post-training for two years. He [debut Meta AI](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) in 2023 and launched Llama 2 & 3 models into Family of Apps, improving model’s general quality, growing it to 1 billion MAU. He boostrapped the modeling team from 0 to 50+ people, initiated and led the following work-streams: alignment integration, core capabilities, tool use and orchestration, and data flywheel. In 2025, he focuses on teaching models to think and reason (becoming agents) and more broadly post training. ​
+Han Fang is a Research Lead in Core LLM at Meta’s AI Frontier org. In 2023-2024, he was a Senior Research Manager and led Meta AI’s post-training for two years. He [debut Meta AI](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) in 2023 and launched Llama 2 & 3 models into Family of Apps, improving model’s general quality, growing it to 1 billion MAU. He boostrapped the modeling team from 0 to 50+ people, initiated and led the following work-streams: alignment integration, core capabilities, tool use and orchestration, and data flywheel. In 2025, he focuses on teaching models to think and reason, and more broadly post training. ​
 
 Han holds a PhD in Applied Mathematics and has published in top-tier venues with 7500+ citations. He is a recipient of the President’s Award to Distinguished Doctoral Students, the Woo-Jong Kim Dissertation Award, and the Excellence in Research Award.
 
