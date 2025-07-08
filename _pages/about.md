@@ -38,7 +38,7 @@ News
 Recent Papers
 ======
 * **Boosting LLM Reasoning via Spontaneous Self-Correction**  
-  *Xutong Zhao, Tengyu Xu, Xuewei Wang, Zhengxing Chen, Di Jin, Liang Tan, Zishun Yu, Zhuokai Zhao, Yun He, Sinong Wang, **Han Fang**, Sarath Chandar, Chen Zhu* · [arXiv](https://arxiv.org/abs/2506.06923) (2025)
+  *Xutong Zhao, Tengyu Xu, Xuewei Wang, Zhengxing Chen, Di Jin, Liang Tan, Zishun Yu, Zhuokai Zhao, Yun He, Sinong Wang, **Han Fang**, Sarath Chandar, Chen Zhu* · [COLM](https://arxiv.org/abs/2506.06923) (2025)
 
 * **Learning Auxiliary Tasks Improves Reference-Free Hallucination Detection in Open-Domain Long-Form Generation**  
   *Chengwei Qin, Wenxuan Zhou, Karthik Abinav Sankararaman, Nanshu Wang, Tengyu Xu, Alexander Radovic, Eryk Helenowski, Arya Talebzadeh, Aditya Tayade, Sinong Wang, Shafiq Joty, **Han Fang**, Hao Ma* · [**ACL**](https://arxiv.org/abs/2505.12265) (2025)
