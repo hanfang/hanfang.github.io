@@ -1,2 +1,5 @@
-.nav__toggle { display: none !important; }
-$enable-theme-toggle: false;  // turn off sun/moon
+---
+---
+
+/* nuke the entire footer panel */
+.site__footer { display: none !important; }

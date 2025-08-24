@@ -25,9 +25,9 @@ author:
   avatar           : "Han_Fang_2023.jpeg"
   name             : "Han Fang"
   # pronouns         : # example: "she/her"  
-  bio              : "LLM Post-training and Research"
+  bio              : "Reasoning and Agents"
   # location         : # "Earth"
-  employer         : "AGI Foundations, Meta"
+  employer         : "Meta SuperIntelligence Labs"
   uri              : # hanfang.info # URL
   email            : "hanfang.info@gmail.com" 
 
@@ -261,6 +261,8 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# the sun toggle
+enable_theme_toggle: false     # <- add (or change) this
 
 # # Plugins
 # plugins:
