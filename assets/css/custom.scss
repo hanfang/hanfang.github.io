@@ -4,6 +4,20 @@
 /* nuke the entire footer panel */
 .site__footer { display: none !important; }
 
+/* TARGETED FIX: Specifically target Han_Fang_2023.jpeg */
+img[src*="Han_Fang_2023.jpeg"] {
+  max-width: 40px !important;
+  max-height: 40px !important;
+  width: 40px !important;
+  height: 40px !important;
+  min-width: 40px !important;
+  min-height: 40px !important;
+  object-fit: cover !important;
+  border-radius: 50% !important;
+  display: block !important;
+  box-sizing: border-box !important;
+}
+
 /* NUCLEAR OPTION: Fix profile avatar on mobile - override everything */
 @media screen and (max-width: 1200px) {
   /* Target absolutely everything that could be the profile image */
