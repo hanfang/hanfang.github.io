@@ -4,12 +4,42 @@
 /* nuke the entire footer panel */
 .site__footer { display: none !important; }
 
-/* Fix profile avatar size on mobile devices */
-@media (max-width: 1023px) {
-  .author__avatar img {
+/* Fix profile avatar size on mobile devices - comprehensive fix */
+@media screen and (max-width: 1023px) {
+  /* Target the parent container */
+  .author__avatar {
+    display: table-cell !important;
+    width: 36px !important;
+    height: 36px !important;
+    overflow: hidden !important;
+  }
+  
+  /* Target all images within author avatar container */
+  .author__avatar img,
+  .author__avatar.author__avatar,
+  img.author__avatar {
     max-width: 36px !important;
     max-height: 36px !important;
     width: 36px !important;
     height: 36px !important;
+    object-fit: cover !important;
+    display: block !important;
+  }
+  
+  /* Additional mobile-specific constraints */
+  div[class*="author"] img {
+    max-width: 36px !important;
+  }
+}
+
+/* Extra aggressive fix for very small screens */
+@media screen and (max-width: 767px) {
+  .author__avatar,
+  .author__avatar img,
+  img.author__avatar {
+    max-width: 32px !important;
+    max-height: 32px !important;
+    width: 32px !important;
+    height: 32px !important;
   }
 }
