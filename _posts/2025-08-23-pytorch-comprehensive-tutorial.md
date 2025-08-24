@@ -69,7 +69,7 @@ y = torch.tensor([2.0], requires_grad=True)
 z = x * y + x ** 2
 z.backward()
 
-print(f"dz/dx: {x.grad}")  # Should be y + 2*x = 2 + 6 = 8
+print(f"dz/dx: {x.grad}")  # Should be y + 2*x = 2 + 2*3 = 8
 print(f"dz/dy: {y.grad}")  # Should be x = 3
 ```
 
@@ -83,11 +83,11 @@ y = x ** 3
 
 # First derivative
 dy_dx = torch.autograd.grad(y, x, create_graph=True)[0]
-print(f"dy/dx: {dy_dx}")  # 3*x² = 12
+print(f"dy/dx: {dy_dx}")  # 3*2² = 12
 
 # Second derivative
 d2y_dx2 = torch.autograd.grad(dy_dx, x)[0]
-print(f"d²y/dx²: {d2y_dx2}")  # 6*x = 12
+print(f"d²y/dx²: {d2y_dx2}")  # 6*2 = 12
 ```
 
 ---
@@ -192,7 +192,9 @@ class CustomDataset(Dataset):
     def __getitem__(self, idx):
         return self.data[idx], self.targets[idx]
 
-# Usage
+# Usage example
+data = torch.randn(100, 10)  # 100 samples, 10 features
+targets = torch.randint(0, 2, (100,))  # Binary classification
 dataset = CustomDataset(data, targets)
 dataloader = DataLoader(dataset, batch_size=16, shuffle=True)
 
@@ -248,10 +250,14 @@ The backbone of modern transformer architectures:
 
 ```python
 import math
+import torch.nn as nn
+import torch.nn.functional as F
 
 class MultiHeadAttention(nn.Module):
-    def __init__(self, d_model, n_heads):
+    def __init__(self, d_model, n_heads, dropout=0.1):
         super().__init__()
+        assert d_model % n_heads == 0
+        
         self.d_model = d_model
         self.n_heads = n_heads
         self.d_k = d_model // n_heads
@@ -260,19 +266,42 @@ class MultiHeadAttention(nn.Module):
         self.W_k = nn.Linear(d_model, d_model)
         self.W_v = nn.Linear(d_model, d_model)
         self.W_o = nn.Linear(d_model, d_model)
+        self.dropout = nn.Dropout(dropout)
         
+        # Initialize weights
+        self._init_weights()
+    
+    def _init_weights(self):
+        for module in [self.W_q, self.W_k, self.W_v, self.W_o]:
+            nn.init.xavier_uniform_(module.weight)
+            nn.init.constant_(module.bias, 0)
+    
+    def create_padding_mask(self, seq, pad_idx=0):
+        """Create padding mask to ignore padded tokens"""
+        return (seq != pad_idx).unsqueeze(1).unsqueeze(2)
+    
+    def create_causal_mask(self, size):
+        """Create causal mask for autoregressive generation"""
+        mask = torch.tril(torch.ones(size, size))
+        return mask.unsqueeze(0).unsqueeze(0)  # Add batch and head dimensions
+    
     def scaled_dot_product_attention(self, Q, K, V, mask=None):
         scores = torch.matmul(Q, K.transpose(-2, -1)) / math.sqrt(self.d_k)
         
         if mask is not None:
-            scores.masked_fill_(mask == 0, -1e9)
+            # Handle both padding masks (True/False) and causal masks (1/0)
+            if mask.dtype == torch.bool:
+                scores.masked_fill_(~mask, float('-inf'))
+            else:
+                scores.masked_fill_(mask == 0, float('-inf'))
         
         attention_weights = F.softmax(scores, dim=-1)
+        attention_weights = self.dropout(attention_weights)
         output = torch.matmul(attention_weights, V)
         
         return output, attention_weights
     
-    def forward(self, query, key, value, mask=None):
+    def forward(self, query, key, value, padding_mask=None, causal_mask=None):
         batch_size, seq_length, d_model = query.size()
         
         # Linear transformations and reshape for multi-head
@@ -280,8 +309,18 @@ class MultiHeadAttention(nn.Module):
         K = self.W_k(key).view(batch_size, seq_length, self.n_heads, self.d_k).transpose(1, 2)
         V = self.W_v(value).view(batch_size, seq_length, self.n_heads, self.d_k).transpose(1, 2)
         
+        # Combine masks if both are provided
+        combined_mask = None
+        if padding_mask is not None:
+            combined_mask = padding_mask
+        if causal_mask is not None:
+            if combined_mask is not None:
+                combined_mask = combined_mask & causal_mask
+            else:
+                combined_mask = causal_mask
+        
         # Apply attention
-        attention_output, attention_weights = self.scaled_dot_product_attention(Q, K, V, mask)
+        attention_output, attention_weights = self.scaled_dot_product_attention(Q, K, V, combined_mask)
         
         # Concatenate heads and apply final linear transformation
         attention_output = attention_output.transpose(1, 2).contiguous().view(
@@ -290,11 +329,25 @@ class MultiHeadAttention(nn.Module):
         
         return output, attention_weights
 
-# Usage example
+# Usage examples
 d_model, n_heads, seq_len, batch_size = 512, 8, 10, 2
 attention = MultiHeadAttention(d_model, n_heads)
+
+# Example 1: Self-attention without masks
 x = torch.randn(batch_size, seq_len, d_model)
-output, weights = attention(x, x, x)  # Self-attention
+output, weights = attention(x, x, x)
+
+# Example 2: With padding mask (for variable-length sequences)
+seq_tokens = torch.randint(1, 1000, (batch_size, seq_len))  # Token IDs
+padding_mask = attention.create_padding_mask(seq_tokens, pad_idx=0)
+output, weights = attention(x, x, x, padding_mask=padding_mask)
+
+# Example 3: With causal mask (for autoregressive generation)
+causal_mask = attention.create_causal_mask(seq_len)
+output, weights = attention(x, x, x, causal_mask=causal_mask)
+
+# Example 4: With both masks (common in decoder self-attention)
+output, weights = attention(x, x, x, padding_mask=padding_mask, causal_mask=causal_mask)
 ```
 
 ### Custom Optimizer Implementation
@@ -328,19 +381,27 @@ For efficient training on modern GPUs:
 ```python
 # Requires CUDA
 if torch.cuda.is_available():
-    model = model.cuda()
+    device = torch.device('cuda')
+    model = model.to(device)
     scaler = torch.cuda.amp.GradScaler()
     
-    for epoch in range(epochs):
-        optimizer.zero_grad()
-        
-        with torch.cuda.amp.autocast():
-            output = model(input)
-            loss = criterion(output, target)
-        
-        scaler.scale(loss).backward()
-        scaler.step(optimizer)
-        scaler.update()
+    # Example training setup
+    criterion = nn.CrossEntropyLoss()
+    optimizer = torch.optim.Adam(model.parameters())
+    
+    for epoch in range(10):  # Example: 10 epochs
+        for batch_data, batch_targets in dataloader:
+            batch_data, batch_targets = batch_data.to(device), batch_targets.to(device)
+            
+            optimizer.zero_grad()
+            
+            with torch.cuda.amp.autocast():
+                output = model(batch_data)
+                loss = criterion(output, batch_targets)
+            
+            scaler.scale(loss).backward()
+            scaler.step(optimizer)
+            scaler.update()
 ```
 
 ---
