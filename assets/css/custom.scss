@@ -4,104 +4,43 @@
 /* nuke the entire footer panel */
 .site__footer { display: none !important; }
 
-/* TARGETED FIX: Specifically target Han_Fang_2023.jpeg */
-img[src*="Han_Fang_2023.jpeg"] {
-  max-width: 40px !important;
-  max-height: 40px !important;
-  width: 40px !important;
-  height: 40px !important;
-  min-width: 40px !important;
-  min-height: 40px !important;
+/* Responsive avatar sizing - proper approach */
+.author__avatar,
+.author__avatar img,
+img.author__avatar {
+  width: 150px !important;
+  height: 150px !important;
+  max-width: 150px !important;
+  max-height: 150px !important;
   object-fit: cover !important;
   border-radius: 50% !important;
   display: block !important;
-  box-sizing: border-box !important;
 }
 
-/* NUCLEAR OPTION: Fix profile avatar on mobile - override everything */
-@media screen and (max-width: 1200px) {
-  /* Target absolutely everything that could be the profile image */
-  img[src*="Han_Fang_2023.jpeg"],
-  img[src*="profile"],
-  img[src*="avatar"],
-  img[alt*="Han Fang"],
-  img[alt*="han"],
-  .author__avatar,
-  .author__avatar *,
-  .author__avatar img,
-  .author__avatar > img,
-  div.author__avatar,
-  div.author__avatar img,
-  img.author__avatar,
-  [class*="author"] img,
-  [class*="avatar"] img,
-  sidebar img:first-of-type,
-  .sidebar img:first-child {
-    max-width: 40px !important;
-    max-height: 40px !important;
-    width: 40px !important;
-    height: 40px !important;
-    min-width: 40px !important;
-    min-height: 40px !important;
-    object-fit: cover !important;
-    border-radius: 50% !important;
-    display: block !important;
-    overflow: hidden !important;
-    box-sizing: border-box !important;
-  }
-  
-  /* Force parent containers to be small too */
-  .author__avatar,
-  div.author__avatar,
-  [class*="author"][class*="avatar"] {
-    max-width: 40px !important;
-    max-height: 40px !important;
-    width: 40px !important;
-    height: 40px !important;
-    overflow: hidden !important;
-    display: block !important;
-  }
+.author__avatar {
+  overflow: hidden !important;
 }
 
-/* Even more aggressive for small screens */
-@media screen and (max-width: 768px) {
-  img[src*="Han_Fang_2023.jpeg"],
-  img[src*="profile"],
-  img[src*="avatar"],
-  img[alt*="Han Fang"],
-  .author__avatar,
-  .author__avatar *,
-  .author__avatar img,
-  img.author__avatar,
-  [class*="author"] img {
-    max-width: 36px !important;
-    max-height: 36px !important;
-    width: 36px !important;
-    height: 36px !important;
-    min-width: 36px !important;
-    min-height: 36px !important;
-  }
-  
-  .author__avatar,
-  div.author__avatar {
-    max-width: 36px !important;
-    max-height: 36px !important;
-    width: 36px !important;
-    height: 36px !important;
-  }
-}
-
-/* Super small screens */
-@media screen and (max-width: 480px) {
-  img[src*="Han_Fang_2023.jpeg"],
+/* Tablet sizing */
+@media screen and (max-width: 1024px) {
   .author__avatar,
   .author__avatar img,
   img.author__avatar {
-    max-width: 32px !important;
-    max-height: 32px !important;
-    width: 32px !important;
-    height: 32px !important;
-    min-width: 32px !important;
-    min-height: 32px !important;
+    width: 100px !important;
+    height: 100px !important;
+    max-width: 100px !important;
+    max-height: 100px !important;
+  }
+}
+
+/* Mobile sizing */
+@media screen and (max-width: 768px) {
+  .author__avatar,
+  .author__avatar img,
+  img.author__avatar {
+    width: 80px !important;
+    height: 80px !important;
+    max-width: 80px !important;
+    max-height: 80px !important;
   }
 }
