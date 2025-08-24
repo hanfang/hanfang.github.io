@@ -345,27 +345,6 @@ if torch.cuda.is_available():
 
 ---
 
-## Why This Tutorial Matters
-
-In my experience at Meta working on Llama 2 & 3, I've seen how crucial it is to understand both theoretical foundations and practical implementation details. This tutorial bridges that gap by providing:
-
-### Deep Understanding
-- **Mathematical foundations**: Know why operations work, not just how to use them
-- **Implementation details**: Build components from scratch to understand internals
-- **Performance considerations**: Memory usage, computational efficiency, and optimization
-
-### Practical Skills
-- **Production patterns**: Code organization, error handling, and debugging
-- **Advanced techniques**: Attention mechanisms, custom optimizers, mixed precision
-- **Real-world scenarios**: Custom datasets, complex architectures, and optimization strategies
-
-### Performance Optimization
-- **Memory management**: Efficient tensor operations and gradient computation
-- **GPU utilization**: Mixed precision training and multi-GPU strategies
-- **Debugging techniques**: Gradient flow analysis and performance profiling
-
----
-
 ## Getting Started
 
 The complete tutorial is available on GitHub with an interactive runner:
