@@ -200,11 +200,6 @@ body:hover .visually-hidden button {
     color: #000;
   }
 
-  .fa-bluesky,
-  .fa-bluesky-square {
-    color: $bluesky-color;
-  }
-
   .fa-behance,
   .fa-behance-square {
     color: $behance-color;
@@ -214,9 +209,8 @@ body:hover .visually-hidden button {
     color: $dribbble-color;
   }
 
-  .fa-facebook,
-  .fa-facebook-square {
-    color: $facebook-color;
+  .fa-threads {
+    color: $threads-color;
   }
 
   .fa-flickr {
