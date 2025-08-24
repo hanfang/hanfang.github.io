@@ -1,6 +1,6 @@
 ---
 title: 'Comprehensive PyTorch Tutorial: From Basics to Advanced Topics'
-date: 2025-08
+date: 2025-08-23
 permalink: /posts/2025/08/pytorch-comprehensive-tutorial/
 tags:
   - machine learning
