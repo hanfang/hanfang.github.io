@@ -94,10 +94,11 @@
   }
 
   img {
-    max-width: 175px;
+    max-width: 36px; /* Fixed: was 175px causing mobile issues */
     border-radius: 50%;
 
     @include breakpoint($large) {
+      max-width: 175px; /* Restore full size on desktop */
       padding: 5px;
       border: 1px solid var(--global-border-color);
     }
