@@ -1,5 +1,5 @@
 ---
-title: 'Comprehensive PyTorch Tutorial: From Basics to Advanced Topics'
+title: 'PyTorch Basics & Tutorial'
 date: 2025-08-23
 permalink: /posts/2025/08/pytorch-comprehensive-tutorial/
 tags:
