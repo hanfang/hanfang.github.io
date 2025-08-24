@@ -3,3 +3,13 @@
 
 /* nuke the entire footer panel */
 .site__footer { display: none !important; }
+
+/* Fix profile avatar size on mobile devices */
+@media (max-width: 1023px) {
+  .author__avatar img {
+    max-width: 36px !important;
+    max-height: 36px !important;
+    width: 36px !important;
+    height: 36px !important;
+  }
+}
