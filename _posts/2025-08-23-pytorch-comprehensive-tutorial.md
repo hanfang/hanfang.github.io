@@ -8,6 +8,7 @@ tags:
   - deep learning
   - tutorial
   - education
+citation: 'Fang, H. (2025). "PyTorch Basics & Tutorial." <i>Han Fang</i>. Available at: https://hanfang.info/posts/2025/08/pytorch-comprehensive-tutorial/'
 ---
 
 I've created a comprehensive PyTorch tutorial that takes you from basic tensor operations to advanced topics like attention mechanisms and mixed precision training. This hands-on guide includes real code examples and practical implementations that demonstrate core concepts in modern deep learning.
@@ -444,3 +445,31 @@ After completing this tutorial, you'll master:
 Whether you're building research prototypes or production ML systems, this tutorial provides the deep PyTorch knowledge needed for modern deep learning applications.
 
 The combination of theoretical understanding and hands-on implementation has been crucial in my journey from academic research to building large-scale AI systems. I hope this resource accelerates your own PyTorch mastery!
+
+---
+
+## Citation
+
+If you found this tutorial helpful, you can cite it as:
+
+**APA Style:**
+```
+Fang, H. (2025). PyTorch Basics & Tutorial. Han Fang. https://hanfang.info/posts/2025/08/pytorch-comprehensive-tutorial/
+```
+
+**IEEE Style:**
+```
+H. Fang, "PyTorch Basics & Tutorial," Han Fang, Aug. 23, 2025. [Online]. Available: https://hanfang.info/posts/2025/08/pytorch-comprehensive-tutorial/
+```
+
+**BibTeX:**
+```bibtex
+@misc{fang2025pytorch,
+  author = {Fang, Han},
+  title = {PyTorch Basics \& Tutorial},
+  year = {2025},
+  month = {Aug},
+  url = {https://hanfang.info/posts/2025/08/pytorch-comprehensive-tutorial/},
+  note = {Accessed: \today}
+}
+```
