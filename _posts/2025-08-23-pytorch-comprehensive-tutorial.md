@@ -2,6 +2,7 @@
 title: 'PyTorch Basics & Tutorial'
 date: 2025-08-23
 permalink: /posts/2025/08/pytorch-comprehensive-tutorial/
+excerpt: 'PyTorch tutorial that takes you from basic tensor operations to advanced topics like attention mechanisms and mixed precision training.'
 tags:
   - machine learning
   - pytorch
