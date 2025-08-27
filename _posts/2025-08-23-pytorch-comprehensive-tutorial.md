@@ -450,26 +450,15 @@ The combination of theoretical understanding and hands-on implementation has bee
 
 ## Citation
 
-If you found this tutorial helpful, you can cite it as:
+```
+Fang, Han. "PyTorch Basics & Tutorial". Han Fang (Aug 2025). https://hanfang.info/posts/2025/08/pytorch-comprehensive-tutorial/
 
-**APA Style:**
-```
-Fang, H. (2025). PyTorch Basics & Tutorial. Han Fang. https://hanfang.info/posts/2025/08/pytorch-comprehensive-tutorial/
-```
-
-**IEEE Style:**
-```
-H. Fang, "PyTorch Basics & Tutorial," Han Fang, Aug. 23, 2025. [Online]. Available: https://hanfang.info/posts/2025/08/pytorch-comprehensive-tutorial/
-```
-
-**BibTeX:**
-```bibtex
-@misc{fang2025pytorch,
-  author = {Fang, Han},
-  title = {PyTorch Basics \& Tutorial},
-  year = {2025},
-  month = {Aug},
-  url = {https://hanfang.info/posts/2025/08/pytorch-comprehensive-tutorial/},
-  note = {Accessed: \today}
+@article{fang2025pytorch,
+    title = {PyTorch Basics \& Tutorial},
+    author = {Fang, Han},
+    journal = {hanfang.info},
+    year = {2025},
+    month = {Aug},
+    url = "https://hanfang.info/posts/2025/08/pytorch-comprehensive-tutorial/"
 }
 ```
