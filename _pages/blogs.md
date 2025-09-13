@@ -7,6 +7,16 @@ author_profile: true
 
 Welcome to my blog! Here I share thoughts on AI research, machine learning, and technology trends.
 
+## Featured
+
+<article>
+  <h2><a href="https://tokens-for-thoughts.notion.site/post-training-101" target="_blank">Post-training 101: A Hitchhiker's Guide to LLM Post-training</a></h2>
+  <p><span class="archive__date">📅</span> <strong>Published:</strong> <time>September 12, 2025</time></p>
+  <p>A comprehensive guide to post-training techniques for large language models, covering supervised fine-tuning, RLHF, reward models, and practical implementation details. This guide walks through the entire journey from pre-training to instruct-tuned models with hands-on examples and best practices.</p>
+</article>
+
+---
+
 {% assign years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 
 {% if years.size > 1 %}
