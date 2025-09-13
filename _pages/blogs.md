@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Blog Posts"
+title: "Tokens for Thoughts"
 permalink: /blogs/
 author_profile: true
 ---
