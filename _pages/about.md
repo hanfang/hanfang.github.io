@@ -16,6 +16,9 @@ Han holds a PhD in Applied Mathematics and has published in top-tier venues with
 
 Recent Papers
 ======
+* **Generalized Parallel Scaling with Interdependent Generations**
+  *Harry Dong, David Brandfonbrener, Eryk Helenowski, Yun He, Mrinal Kumar, **Han Fang**, Yuejie Chi, Karthik Abinav Sankararaman* · [**NeurIPS**](https://arxiv.org/abs/2510.01143) (2025)
+
 * **Boosting LLM Reasoning via Spontaneous Self-Correction**
   *Xutong Zhao, Tengyu Xu, Xuewei Wang, Zhengxing Chen, Di Jin, Liang Tan, Zishun Yu, Zhuokai Zhao, Yun He, Sinong Wang, **Han Fang**, Sarath Chandar, Chen Zhu* · [**COLM**](https://arxiv.org/abs/2506.06923) (2025)
 
