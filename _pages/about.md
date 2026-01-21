@@ -43,6 +43,9 @@ Recent Papers
 News
 ======
 
+* **Post-training 101: A Hitchhiker's Guide to LLM Post-training**
+  A comprehensive guide to post-training techniques for large language models, covering supervised fine-tuning, RLHF, reward models, and practical implementation. [Blog Post](https://tokens-for-thoughts.notion.site/post-training-101) (2025)
+
 * **Meta AI reached MAU in Dec 2024 and in 1 billion MAU in May 2025**.
   Improved Meta AI's [multilinguality](https://about.fb.com/news/2024/07/meta-ai-is-now-multilingual-more-creative-and-smarter/), enabled the roll-out to 12 languages and 40+ countries. [Blog Post](https://ai.meta.com/blog/future-of-ai-built-with-llama/) / [News](https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/) (2025)
 
