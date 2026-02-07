@@ -174,15 +174,11 @@ Similar to publications, either:
 
 ### Committing Changes
 
-**Important**: Do NOT include Claude attribution in commit messages. All commits should appear as if written by the repository owner. Use simple, descriptive messages:
-
 ```bash
 git add <files>
 git commit -m "Description of changes"
 git push origin master
 ```
-
-Never add text like "Generated with Claude Code" or "Co-Authored-By: Claude" to commit messages.
 
 GitHub Pages automatically rebuilds and deploys the site after push to master.
 
