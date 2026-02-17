@@ -10,6 +10,12 @@ Welcome to my blog! Here I share thoughts on AI research, machine learning, and 
 ## Featured
 
 <article>
+  <h2><a href="/posts/2026/02/central-dogma-of-artificial-intelligence/">The Central Dogma of Artificial Intelligence</a></h2>
+  <p><span class="archive__date">📅</span> <strong>Published:</strong> <time>February 7, 2026</time></p>
+  <p>Every mature science has its central dogma. Biology has DNA → RNA → Protein. What is ours? Intelligence is the compression of experience into generalization. This essay explores how compression theory explains pre-training, post-training, and alignment — and why understanding compression losses may be the key frontier in AI.</p>
+</article>
+
+<article>
   <h2><a href="https://tokens-for-thoughts.notion.site/the-rl-environment-field-guide" target="_blank">The RL Environment Field Guide</a></h2>
   <p><span class="archive__date">📅</span> <strong>Published:</strong> <time>January 26, 2026</time></p>
   <p>A practical guide to RL environments using Pokemon Red as a case study. Covers the agent-environment loop, observation and action spaces, reward design, trajectories, graders, and the credit assignment problem—with real code examples and lessons from training an LLM-based gameplay agent.</p>
