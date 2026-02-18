@@ -43,7 +43,7 @@ Recent Papers
 News
 ======
 
-* **Published [The Central Dogma of Artificial Intelligence](/posts/2026/02/central-dogma-of-artificial-intelligence/)** (2026)
+* **Published [The Central Dogma of Artificial Intelligence](https://tokens-for-thoughts.notion.site/the-central-dogma-of-artificial-intelligence)** (2026)
 
 * **Published [The RL Environment Field Guide](https://tokens-for-thoughts.notion.site/the-rl-environment-field-guide)** (2026)
 

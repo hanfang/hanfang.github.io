@@ -10,7 +10,7 @@ Welcome to my blog! Here I share thoughts on AI research, machine learning, and 
 ## Featured
 
 <article>
-  <h2><a href="/posts/2026/02/central-dogma-of-artificial-intelligence/">The Central Dogma of Artificial Intelligence</a></h2>
+  <h2><a href="https://tokens-for-thoughts.notion.site/the-central-dogma-of-artificial-intelligence" target="_blank">The Central Dogma of Artificial Intelligence</a></h2>
   <p><span class="archive__date">📅</span> <strong>Published:</strong> <time>February 7, 2026</time></p>
   <p>Every mature science has its central dogma. Biology has DNA → RNA → Protein. What is ours? Intelligence is the compression of experience into generalization. This essay explores how compression theory explains pre-training, post-training, and alignment — and why understanding compression losses may be the key frontier in AI.</p>
 </article>
