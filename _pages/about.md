@@ -45,26 +45,38 @@ Blog
 Featured Papers
 ======
 
-<div class="card-list">
+<div class="paper-list">
 
-<div class="card-item">
-  <h3 class="card-item__title"><a href="https://arxiv.org/abs/2510.01143">Generalized Parallel Scaling with Interdependent Generations</a></h3>
-  <p class="card-item__meta">Harry Dong, David Brandfonbrener, Eryk Helenowski, Yun He, Mrinal Kumar, <strong>Han Fang</strong>, Yuejie Chi, Karthik Abinav Sankararaman · <strong>ICML</strong> 2026</p>
+<div class="paper-item">
+  <img src="/images/paper-gps.svg" alt="" class="paper-thumb">
+  <div class="paper-content">
+    <a href="https://arxiv.org/abs/2510.01143" class="paper-title">Generalized Parallel Scaling with Interdependent Generations</a>
+    <p class="paper-meta">Harry Dong, David Brandfonbrener, Eryk Helenowski, Yun He, Mrinal Kumar, <strong>Han Fang</strong>, Yuejie Chi, Karthik Abinav Sankararaman · <strong>ICML</strong> 2026</p>
+  </div>
 </div>
 
-<div class="card-item">
-  <h3 class="card-item__title"><a href="https://arxiv.org/abs/2501.17974">Think Smarter not Harder: Adaptive Reasoning with Inference Aware Optimization</a></h3>
-  <p class="card-item__meta">Zishun Yu, Tengyu Xu, Di Jin, Karthik Abinav Sankararaman, Yun He, Wenxuan Zhou, Zhouhao Zeng, Eryk Helenowski, Chen Zhu, Sinong Wang, Hao Ma, <strong>Han Fang</strong> · <strong>ICML</strong> 2025</p>
+<div class="paper-item">
+  <img src="/images/paper-think-smarter.svg" alt="" class="paper-thumb">
+  <div class="paper-content">
+    <a href="https://arxiv.org/abs/2501.17974" class="paper-title">Think Smarter not Harder: Adaptive Reasoning with Inference Aware Optimization</a>
+    <p class="paper-meta">Zishun Yu, Tengyu Xu, Di Jin, Karthik Abinav Sankararaman, Yun He, Wenxuan Zhou, Zhouhao Zeng, Eryk Helenowski, Chen Zhu, Sinong Wang, Hao Ma, <strong>Han Fang</strong> · <strong>ICML</strong> 2025</p>
+  </div>
 </div>
 
-<div class="card-item">
-  <h3 class="card-item__title"><a href="https://arxiv.org/abs/2409.20370">The Perfect Blend: Redefining RLHF with Mixture of Judges</a></h3>
-  <p class="card-item__meta">Tengyu Xu, Eryk Helenowski, Karthik Abinav Sankararaman, Di Jin, Kaiyan Peng, Eric Han, Shaoliang Nie, Chen Zhu, Hejia Zhang, Wenxuan Zhou, Zhouhao Zeng, Yun He, Karishma Mandyam, Arya Talabzadeh, Madian Khabsa, Gabriel Cohen, Yuandong Tian, Hao Ma, Sinong Wang, <strong>Han Fang</strong> · arXiv 2024</p>
+<div class="paper-item">
+  <img src="/images/paper-moj.svg" alt="" class="paper-thumb">
+  <div class="paper-content">
+    <a href="https://arxiv.org/abs/2409.20370" class="paper-title">The Perfect Blend: Redefining RLHF with Mixture of Judges</a>
+    <p class="paper-meta">Tengyu Xu, Eryk Helenowski, Karthik Abinav Sankararaman, Di Jin, Kaiyan Peng, Eric Han, Shaoliang Nie, Chen Zhu, Hejia Zhang, Wenxuan Zhou, Zhouhao Zeng, Yun He, Karishma Mandyam, Arya Talabzadeh, Madian Khabsa, Gabriel Cohen, Yuandong Tian, Hao Ma, Sinong Wang, <strong>Han Fang</strong> · arXiv 2024</p>
+  </div>
 </div>
 
-<div class="card-item">
-  <h3 class="card-item__title"><a href="https://arxiv.org/abs/2006.04768">Linformer: Self-Attention with Linear Complexity</a></h3>
-  <p class="card-item__meta">Sinong Wang, Belinda Z. Li, Madian Khabsa, <strong>Han Fang</strong>, Hao Ma · arXiv 2020</p>
+<div class="paper-item">
+  <img src="/images/paper-linformer.svg" alt="" class="paper-thumb">
+  <div class="paper-content">
+    <a href="https://arxiv.org/abs/2006.04768" class="paper-title">Linformer: Self-Attention with Linear Complexity</a>
+    <p class="paper-meta">Sinong Wang, Belinda Z. Li, Madian Khabsa, <strong>Han Fang</strong>, Hao Ma · arXiv 2020</p>
+  </div>
 </div>
 
 </div>
@@ -75,42 +87,30 @@ Featured Papers
 News
 ======
 
-<div class="card-list">
+<div class="news-list">
 
-<div class="card-item">
-  <h3 class="card-item__title">Meta AI reached 1 billion MAU</h3>
-  <p class="card-item__desc">Improved Meta AI's <a href="https://about.fb.com/news/2024/07/meta-ai-is-now-multilingual-more-creative-and-smarter/">multilinguality</a>, enabled roll-out to 12 languages and 40+ countries. <a href="https://ai.meta.com/blog/future-of-ai-built-with-llama/">Blog</a> · <a href="https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/">News</a></p>
-  <p class="card-item__date">2025</p>
+<div class="news-item">
+  <span class="news-date">[2025]</span> <strong>Meta AI reached 1 billion MAU</strong> — Improved <a href="https://about.fb.com/news/2024/07/meta-ai-is-now-multilingual-more-creative-and-smarter/">multilinguality</a>, roll-out to 12 languages and 40+ countries. <a href="https://ai.meta.com/blog/future-of-ai-built-with-llama/">Blog</a> · <a href="https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/">News</a>
 </div>
 
-<div class="card-item">
-  <h3 class="card-item__title">Launched voice mode and photo editing in Meta AI</h3>
-  <p class="card-item__desc">Launched updated Llama 3 model for voice mode. Improved Planner for photo editing with multimodal inputs. <a href="https://about.fb.com/news/2024/09/metas-ai-product-news-connect/">Blog</a></p>
-  <p class="card-item__date">Connect 2024</p>
+<div class="news-item">
+  <span class="news-date">[2024]</span> <strong>Launched voice mode and photo editing in Meta AI</strong> — Llama 3 for voice, Planner for multimodal photo editing. <a href="https://about.fb.com/news/2024/09/metas-ai-product-news-connect/">Blog</a>
 </div>
 
-<div class="card-item">
-  <h3 class="card-item__title">Launched Llama 3 on Meta AI</h3>
-  <p class="card-item__desc">Developed Meta AI's online RL with <a href="https://arxiv.org/abs/2409.20370">Mixture of Judges</a>, improving reasoning, instructions following, safety. <a href="https://ai.meta.com/blog/meta-llama-3-1/">Blog</a></p>
-  <p class="card-item__date">2024</p>
+<div class="news-item">
+  <span class="news-date">[2024]</span> <strong>Launched Llama 3 on Meta AI</strong> — Online RL with <a href="https://arxiv.org/abs/2409.20370">Mixture of Judges</a> for reasoning, instruction following, safety. <a href="https://ai.meta.com/blog/meta-llama-3-1/">Blog</a>
 </div>
 
-<div class="card-item">
-  <h3 class="card-item__title">Launched Meta AI with Llama 2</h3>
-  <p class="card-item__desc">Debut <a href="https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/">Meta AI</a> into Family of Apps. Created Orchestrator for tool use. <a href="https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/">My talk at Connect</a></p>
-  <p class="card-item__date">2023</p>
+<div class="news-item">
+  <span class="news-date">[2023]</span> <strong>Launched Meta AI with Llama 2</strong> — Debut into Family of Apps, Orchestrator for tool use. <a href="https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/">My talk at Connect</a>
 </div>
 
-<div class="card-item">
-  <h3 class="card-item__title">Meta AI Few-Shot Learner (FSL)</h3>
-  <p class="card-item__desc">Developed FSL for detecting new forms of harmful content across 100+ languages. <a href="https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/">Blog</a></p>
-  <p class="card-item__date">2021</p>
+<div class="news-item">
+  <span class="news-date">[2021]</span> <strong>Meta AI Few-Shot Learner</strong> — Detecting harmful content across 100+ languages. <a href="https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/">Blog</a>
 </div>
 
-<div class="card-item">
-  <h3 class="card-item__title">Training AI to detect hate speech</h3>
-  <p class="card-item__desc">Built RL-based framework to E2E optimize hate speech classifiers. <a href="https://ai.meta.com/blog/training-ai-to-detect-hate-speech-in-the-real-world/">Blog</a></p>
-  <p class="card-item__date">2020</p>
+<div class="news-item">
+  <span class="news-date">[2020]</span> <strong>Training AI to detect hate speech</strong> — RL-based framework for E2E optimization. <a href="https://ai.meta.com/blog/training-ai-to-detect-hate-speech-in-the-real-world/">Blog</a>
 </div>
 
 </div>

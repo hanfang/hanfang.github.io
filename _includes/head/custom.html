@@ -51,4 +51,31 @@
 }
 </script>
 
+<!-- Scroll Progress Bar -->
+<style>
+  .scroll-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 3px;
+    background: linear-gradient(90deg, #667eea, #764ba2);
+    z-index: 9999;
+  }
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var progressBar = document.createElement('div');
+    progressBar.className = 'scroll-progress';
+    document.body.prepend(progressBar);
+
+    window.addEventListener('scroll', function() {
+      var scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+      var scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      var progress = (scrollTop / scrollHeight) * 100;
+      progressBar.style.width = progress + '%';
+    });
+  });
+</script>
+
 <!-- end custom head snippets -->
