@@ -44,3 +44,153 @@ img.author__avatar {
     max-height: 80px !important;
   }
 }
+
+/* ==========================================================================
+   BLOG CARDS (text-only)
+   ========================================================================== */
+
+.blog-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin: 0.75rem 0 1rem 0;
+}
+
+.blog-card {
+  border-bottom: 1px solid var(--global-border-color, #e1e1e1);
+  padding-bottom: 0.6rem;
+}
+
+.blog-card:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.blog-card__title {
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.blog-card__title a {
+  color: var(--global-text-color, #333);
+  text-decoration: none;
+}
+
+.blog-card__title a:hover {
+  color: var(--global-link-color, #0066cc);
+}
+
+.blog-card__date {
+  font-size: 0.7rem;
+  color: var(--global-text-color-light, #666);
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.blog-card__excerpt {
+  font-size: 0.8rem;
+  color: var(--global-text-color-light, #555);
+  line-height: 1.35;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.blog-card p {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.blog-more {
+  margin-top: 0.25rem;
+  font-size: 0.85rem;
+}
+
+.blog-more a {
+  color: var(--global-link-color, #0066cc);
+  text-decoration: none;
+}
+
+.blog-more a:hover {
+  text-decoration: underline;
+}
+
+/* ==========================================================================
+   GENERIC CARD LIST (Papers, News)
+   ========================================================================== */
+
+.card-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin: 0.75rem 0 1rem 0;
+}
+
+.card-item {
+  border-bottom: 1px solid var(--global-border-color, #e1e1e1);
+  padding-bottom: 0.6rem;
+}
+
+.card-item:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.card-item__title {
+  margin: 0 !important;
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.card-item__title a {
+  color: var(--global-text-color, #333);
+  text-decoration: none;
+}
+
+.card-item__title a:hover {
+  color: var(--global-link-color, #0066cc);
+}
+
+.card-item__meta {
+  font-size: 0.8rem;
+  color: var(--global-text-color-light, #555);
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1.35;
+}
+
+.card-item__desc {
+  font-size: 0.8rem;
+  color: var(--global-text-color-light, #555);
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1.35;
+}
+
+.card-item__desc a {
+  color: var(--global-link-color, #0066cc);
+}
+
+.card-item__date {
+  font-size: 0.7rem;
+  color: var(--global-text-color-light, #888);
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.card-more {
+  margin-top: 0.25rem;
+  font-size: 0.85rem;
+}
+
+.card-more a {
+  color: var(--global-link-color, #0066cc);
+  text-decoration: none;
+}
+
+.card-more a:hover {
+  text-decoration: underline;
+}
+

@@ -14,52 +14,103 @@ Han holds a PhD in Applied Mathematics and has published in top-tier venues with
 [Google Scholar](https://scholar.google.com/citations?user=mQIqIVwAAAAJ) / [CV](/files/Han_Fang_CV.pdf) / [Linkedin](https://www.linkedin.com/in/hfang15/) / [Twitter](https://x.com/Han_Fang_)
 
 
-Recent Papers
+Blog
 ======
-* **Generalized Parallel Scaling with Interdependent Generations**
-  *Harry Dong, David Brandfonbrener, Eryk Helenowski, Yun He, Mrinal Kumar, **Han Fang**, Yuejie Chi, Karthik Abinav Sankararaman* · [**ICML**](https://arxiv.org/abs/2510.01143) (2026)
 
-* **Boosting LLM Reasoning via Spontaneous Self-Correction**
-  *Xutong Zhao, Tengyu Xu, Xuewei Wang, Zhengxing Chen, Di Jin, Liang Tan, Zishun Yu, Zhuokai Zhao, Yun He, Sinong Wang, **Han Fang**, Sarath Chandar, Chen Zhu* · [**COLM**](https://arxiv.org/abs/2506.06923) (2025)
+<div class="blog-grid">
 
-* **Learning Auxiliary Tasks Improves Reference-Free Hallucination Detection in Open-Domain Long-Form Generation**
-  *Chengwei Qin, Wenxuan Zhou, Karthik Abinav Sankararaman, Nanshu Wang, Tengyu Xu, Alexander Radovic, Eryk Helenowski, Arya Talebzadeh, Aditya Tayade, Sinong Wang, Shafiq Joty, **Han Fang**, Hao Ma* · [**ACL**](https://arxiv.org/abs/2505.12265) (2025)
+<div class="blog-card">
+  <h3 class="blog-card__title"><a href="https://tokens-for-thoughts.notion.site/the-central-dogma-of-artificial-intelligence">The Central Dogma of Artificial Intelligence</a></h3>
+  <p class="blog-card__date">February 2026</p>
+  <p class="blog-card__excerpt">Every mature science has its central dogma. Biology has DNA → RNA → Protein. What is ours? Intelligence is the compression of experience into generalization.</p>
+</div>
 
-* **Think Smarter not Harder: Adaptive Reasoning with Inference Aware Optimization**
-  *Zishun Yu, Tengyu Xu, Di Jin, Karthik Abinav Sankararaman, Yun He, Wenxuan Zhou, Zhouhao Zeng, Eryk Helenowski, Chen Zhu, Sinong Wang, Hao Ma, **Han Fang*** · [**ICML**](https://arxiv.org/abs/2501.17974) 2025
+<div class="blog-card">
+  <h3 class="blog-card__title"><a href="https://tokens-for-thoughts.notion.site/the-rl-environment-field-guide">The RL Environment Field Guide</a></h3>
+  <p class="blog-card__date">January 2026</p>
+  <p class="blog-card__excerpt">A practical guide to RL environments using Pokemon Red as a case study. Covers the agent-environment loop, observation spaces, reward design, and credit assignment.</p>
+</div>
 
-* **Improving Model Factuality with Fine-grained Critique-based Evaluator**
-  *Yiqing Xie, Wenxuan Zhou, Pradyot Prakash, Di Jin, Yuning Mao, Quintin Fettes, Arya Talebzadeh, Sinong Wang, **Han Fang**, Carolyn Rose, Daniel Fried, Hejia Zhang* · [**ACL**](https://arxiv.org/abs/2410.18359) 2025
+<div class="blog-card">
+  <h3 class="blog-card__title"><a href="https://tokens-for-thoughts.notion.site/post-training-101">Post-training 101: A Hitchhiker's Guide</a></h3>
+  <p class="blog-card__date">September 2025</p>
+  <p class="blog-card__excerpt">A comprehensive guide to post-training techniques for LLMs, covering supervised fine-tuning, RLHF, reward models, and practical implementation details.</p>
+</div>
 
-* **Multi-IF: Benchmarking LLMs on Multi-Turn and Multilingual Instructions Following**
-  *Yun He, Di Jin, Chaoqi Wang, Chloe Bi, Karishma Mandyam, Hejia Zhang, Chen Zhu, Ning Li, Tengyu Xu, Hongjiang Lv, Shruti Bhosale, Chenguang Zhu, Karthik Abinav Sankararaman, Eryk Helenowski, Melanie Kambadur, Aditya Tayade, Hao Ma, **Han Fang**, Sinong Wang* · [arXiv](https://arxiv.org/abs/2410.15553) 2024
+</div>
 
-* **The Perfect Blend: Redefining RLHF with mixture of judges**
-  *Tengyu Xu, Eryk Helenowski, Karthik Abinav Sankararaman, Di Jin, Kaiyan Peng, Eric Han, Shaoliang Nie, Chen Zhu, Hejia Zhang, Wenxuan Zhou, Zhouhao Zeng, Yun He, Karishma Mandyam, Arya Talabzadeh, Madian Khabsa, Gabriel Cohen, Yuandong Tian, Hao Ma, Sinong Wang, **Han Fang*** · [arXiv](https://arxiv.org/abs/2409.20370) 2024
+<p class="blog-more"><a href="/blogs/">View all posts →</a></p>
+
+
+Featured Papers
+======
+
+<div class="card-list">
+
+<div class="card-item">
+  <h3 class="card-item__title"><a href="https://arxiv.org/abs/2510.01143">Generalized Parallel Scaling with Interdependent Generations</a></h3>
+  <p class="card-item__meta">Harry Dong, David Brandfonbrener, Eryk Helenowski, Yun He, Mrinal Kumar, <strong>Han Fang</strong>, Yuejie Chi, Karthik Abinav Sankararaman · <strong>ICML</strong> 2026</p>
+</div>
+
+<div class="card-item">
+  <h3 class="card-item__title"><a href="https://arxiv.org/abs/2501.17974">Think Smarter not Harder: Adaptive Reasoning with Inference Aware Optimization</a></h3>
+  <p class="card-item__meta">Zishun Yu, Tengyu Xu, Di Jin, Karthik Abinav Sankararaman, Yun He, Wenxuan Zhou, Zhouhao Zeng, Eryk Helenowski, Chen Zhu, Sinong Wang, Hao Ma, <strong>Han Fang</strong> · <strong>ICML</strong> 2025</p>
+</div>
+
+<div class="card-item">
+  <h3 class="card-item__title"><a href="https://arxiv.org/abs/2409.20370">The Perfect Blend: Redefining RLHF with Mixture of Judges</a></h3>
+  <p class="card-item__meta">Tengyu Xu, Eryk Helenowski, Karthik Abinav Sankararaman, Di Jin, Kaiyan Peng, Eric Han, Shaoliang Nie, Chen Zhu, Hejia Zhang, Wenxuan Zhou, Zhouhao Zeng, Yun He, Karishma Mandyam, Arya Talabzadeh, Madian Khabsa, Gabriel Cohen, Yuandong Tian, Hao Ma, Sinong Wang, <strong>Han Fang</strong> · arXiv 2024</p>
+</div>
+
+<div class="card-item">
+  <h3 class="card-item__title"><a href="https://arxiv.org/abs/2006.04768">Linformer: Self-Attention with Linear Complexity</a></h3>
+  <p class="card-item__meta">Sinong Wang, Belinda Z. Li, Madian Khabsa, <strong>Han Fang</strong>, Hao Ma · arXiv 2020</p>
+</div>
+
+</div>
+
+<p class="card-more"><a href="https://scholar.google.com/citations?user=mQIqIVwAAAAJ">View all publications →</a></p>
+
 
 News
 ======
 
-* **Published [The Central Dogma of Artificial Intelligence](https://tokens-for-thoughts.notion.site/the-central-dogma-of-artificial-intelligence)** (2026)
+<div class="card-list">
 
-* **Published [The RL Environment Field Guide](https://tokens-for-thoughts.notion.site/the-rl-environment-field-guide)** (2026)
+<div class="card-item">
+  <h3 class="card-item__title">Meta AI reached 1 billion MAU</h3>
+  <p class="card-item__desc">Improved Meta AI's <a href="https://about.fb.com/news/2024/07/meta-ai-is-now-multilingual-more-creative-and-smarter/">multilinguality</a>, enabled roll-out to 12 languages and 40+ countries. <a href="https://ai.meta.com/blog/future-of-ai-built-with-llama/">Blog</a> · <a href="https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/">News</a></p>
+  <p class="card-item__date">2025</p>
+</div>
 
-* **Published [Post-training 101: A Hitchhiker's Guide to LLM Post-training](https://tokens-for-thoughts.notion.site/post-training-101)** (2025)
+<div class="card-item">
+  <h3 class="card-item__title">Launched voice mode and photo editing in Meta AI</h3>
+  <p class="card-item__desc">Launched updated Llama 3 model for voice mode. Improved Planner for photo editing with multimodal inputs. <a href="https://about.fb.com/news/2024/09/metas-ai-product-news-connect/">Blog</a></p>
+  <p class="card-item__date">Connect 2024</p>
+</div>
 
-* **Meta AI reached MAU in Dec 2024 and in 1 billion MAU in May 2025**.
-  Improved Meta AI's [multilinguality](https://about.fb.com/news/2024/07/meta-ai-is-now-multilingual-more-creative-and-smarter/), enabled the roll-out to 12 languages and 40+ countries. [Blog Post](https://ai.meta.com/blog/future-of-ai-built-with-llama/) / [News](https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/) (2025)
+<div class="card-item">
+  <h3 class="card-item__title">Launched Llama 3 on Meta AI</h3>
+  <p class="card-item__desc">Developed Meta AI's online RL with <a href="https://arxiv.org/abs/2409.20370">Mixture of Judges</a>, improving reasoning, instructions following, safety. <a href="https://ai.meta.com/blog/meta-llama-3-1/">Blog</a></p>
+  <p class="card-item__date">2024</p>
+</div>
 
-* **Launched the voice mode and photo editing in Meta AI at Connect 2024**
-  Launched an updated Llama 3 model for voice mode. Improved Planner to enable photo editing with mutimodal inputs. [Blog Post](https://about.fb.com/news/2024/09/metas-ai-product-news-connect/) (2024)
+<div class="card-item">
+  <h3 class="card-item__title">Launched Meta AI with Llama 2</h3>
+  <p class="card-item__desc">Debut <a href="https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/">Meta AI</a> into Family of Apps. Created Orchestrator for tool use. <a href="https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/">My talk at Connect</a></p>
+  <p class="card-item__date">2023</p>
+</div>
 
-* **Launched [Llama 3 on Meta AI](https://ai.meta.com/blog/meta-llama-3/) and subsequently Llama 3.1**.
-  Developed Meta AI's online RL with [Mixture of Judges](https://arxiv.org/abs/2409.20370), improving reasoning, instructions following, safety, etc. [Blog Post](https://ai.meta.com/blog/meta-llama-3-1/) (2024)
+<div class="card-item">
+  <h3 class="card-item__title">Meta AI Few-Shot Learner (FSL)</h3>
+  <p class="card-item__desc">Developed FSL for detecting new forms of harmful content across 100+ languages. <a href="https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/">Blog</a></p>
+  <p class="card-item__date">2021</p>
+</div>
 
-* **Launched [Meta AI](https://www.meta.ai/) with an improved Llama 2 model**.
-  Debut [Meta AI](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/) and launched Llama 2 into Family of Apps. Created Orchestrator for tool use, enabling search and image generation. Developed data flywheel for Reinforcement Learning from User Feedback. My talk at [Meta's Connect Conference](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) (2023)
+<div class="card-item">
+  <h3 class="card-item__title">Training AI to detect hate speech</h3>
+  <p class="card-item__desc">Built RL-based framework to E2E optimize hate speech classifiers. <a href="https://ai.meta.com/blog/training-ai-to-detect-hate-speech-in-the-real-world/">Blog</a></p>
+  <p class="card-item__date">2020</p>
+</div>
 
-* **Developed Meta AI Few-Shot Learner (FSL) that can adapt to new types of harmful content.**
-  Developed FSL which can work in 100+ languages, learns from images & text, and detects new forms of violations. [Blog Post](https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/) (2021)
-
-* **Training AI to detect hate speech in the real world**
-  Built a RL based framework to E2E optimize hate speech classifiers. [Blog Post](https://ai.meta.com/blog/training-ai-to-detect-hate-speech-in-the-real-world/) (2020)
+</div>
