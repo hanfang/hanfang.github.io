@@ -264,14 +264,11 @@ timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # the sun toggle
 enable_theme_toggle: false     # <- add (or change) this
 
-# # Plugins
-# plugins:
-#   - jekyll-feed
-#   - jekyll-gist
-#   - jekyll-paginate
-#   - jekyll-sitemap
-#   - jekyll-redirect-from
-#   - jemoji
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
 
 # # Mimic GitHub Pages with --safe
 # whitelist:
