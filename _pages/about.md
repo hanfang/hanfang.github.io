@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "about me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -48,7 +48,7 @@ featured papers
 <div class="paper-list">
 
 <div class="paper-item">
-  <img src="/images/paper-gps.svg" alt="" class="paper-thumb">
+  <img src="/images/paper-gps.png" alt="" class="paper-thumb">
   <div class="paper-content">
     <a href="https://arxiv.org/abs/2510.01143" class="paper-title">Generalized Parallel Scaling with Interdependent Generations</a>
     <p class="paper-meta">Harry Dong, David Brandfonbrener, Eryk Helenowski, Yun He, Mrinal Kumar, <strong>Han Fang</strong>, Yuejie Chi, Karthik Abinav Sankararaman · <strong>ICML</strong> 2026</p>
@@ -56,7 +56,7 @@ featured papers
 </div>
 
 <div class="paper-item">
-  <img src="/images/paper-think-smarter.svg" alt="" class="paper-thumb">
+  <img src="/images/paper-think-smarter.png" alt="" class="paper-thumb">
   <div class="paper-content">
     <a href="https://arxiv.org/abs/2501.17974" class="paper-title">Think Smarter not Harder: Adaptive Reasoning with Inference Aware Optimization</a>
     <p class="paper-meta">Zishun Yu, Tengyu Xu, Di Jin, Karthik Abinav Sankararaman, Yun He, Wenxuan Zhou, Zhouhao Zeng, Eryk Helenowski, Chen Zhu, Sinong Wang, Hao Ma, <strong>Han Fang</strong> · <strong>ICML</strong> 2025</p>
@@ -64,7 +64,7 @@ featured papers
 </div>
 
 <div class="paper-item">
-  <img src="/images/paper-moj.svg" alt="" class="paper-thumb">
+  <img src="/images/paper-moj.png" alt="" class="paper-thumb">
   <div class="paper-content">
     <a href="https://arxiv.org/abs/2409.20370" class="paper-title">The Perfect Blend: Redefining RLHF with Mixture of Judges</a>
     <p class="paper-meta">Tengyu Xu, Eryk Helenowski, Karthik Abinav Sankararaman, Di Jin, Kaiyan Peng, Eric Han, Shaoliang Nie, Chen Zhu, Hejia Zhang, Wenxuan Zhou, Zhouhao Zeng, Yun He, Karishma Mandyam, Arya Talabzadeh, Madian Khabsa, Gabriel Cohen, Yuandong Tian, Hao Ma, Sinong Wang, <strong>Han Fang</strong> · arXiv 2024</p>
@@ -72,7 +72,7 @@ featured papers
 </div>
 
 <div class="paper-item">
-  <img src="/images/paper-linformer.svg" alt="" class="paper-thumb">
+  <img src="/images/paper-linformer.png" alt="" class="paper-thumb">
   <div class="paper-content">
     <a href="https://arxiv.org/abs/2006.04768" class="paper-title">Linformer: Self-Attention with Linear Complexity</a>
     <p class="paper-meta">Sinong Wang, Belinda Z. Li, Madian Khabsa, <strong>Han Fang</strong>, Hao Ma · arXiv 2020</p>
