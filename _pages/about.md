@@ -90,6 +90,12 @@ news
 <div class="card-list">
 
 <div class="card-item">
+  <h3 class="card-item__title">Launched Agentic Tool Use in Muse Spark</h3>
+  <p class="card-item__desc">Excited to introduce <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> 🥑, the first in the Muse family of models from Meta Superintelligence Labs. Natively multimodal reasoning with tool-use, visual chain of thought, and multi-agent orchestration. Drove agentic tool use to <a href="https://labs.scale.com/leaderboard/mcp_atlas">SoTA</a>.</p>
+  <p class="card-item__date">2026</p>
+</div>
+
+<div class="card-item">
   <h3 class="card-item__title">Meta AI reached 1 billion MAU</h3>
   <p class="card-item__desc">Improved Meta AI's <a href="https://about.fb.com/news/2024/07/meta-ai-is-now-multilingual-more-creative-and-smarter/">multilinguality</a>, enabled roll-out to 12 languages and 40+ countries. <a href="https://ai.meta.com/blog/future-of-ai-built-with-llama/">Blog</a> · <a href="https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/">News</a></p>
   <p class="card-item__date">2025</p>
