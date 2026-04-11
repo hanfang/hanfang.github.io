@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Han Fang is an AI Research Scientist at Meta's SuperIntelligence Labs, with research interest in RL and agents. In 2023-2024, he led post-training of Llama 2 & 3, [debut Meta AI](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) and grew it to 1 billion MAU - he drove the integrated training runs, core capabilities, tool use / orchestration, and user data flywheel. He is currently pushing the research frontier of Agents and RL, and has a deep interest in self-improvement.
+Han Fang is an AI Research Scientist at Meta’s Superintelligence Labs, working at the frontier of RL, agents, and self-improvement. His recent work includes agentic tool-use capabilities in [Muse Spark](https://ai.meta.com/blog/introducing-muse-spark-msl/), which achieves state-of-the-art performance on [MCP-Atlas](https://labs.scale.com/leaderboard/mcp_atlas). In 2023–2024, Han led production post-training for Llama 2 and Llama 3, helping [launch Meta AI](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) and scale it to 1 billion MAU — driving integrated training runs, core capabilities, tool use and orchestration, and the user-data flywheel.
 
 Han holds a PhD in Applied Mathematics and has published in top-tier venues with 10K+ citations. He is a recipient of the President’s Award to Distinguished Doctoral Students, the Woo-Jong Kim Dissertation Award, and the Excellence in Research Award.
 
