@@ -48,6 +48,12 @@ news
 <div class="card-list">
 
 <div class="card-item">
+  <h3 class="card-item__title">Autodata: Automatic Data Scientist</h3>
+  <p class="card-item__desc">AI agents that function as data scientists, iteratively building high-quality training and evaluation datasets. Agentic Self-Instruct converts inference compute into better data. <a href="https://facebookresearch.github.io/RAM/blogs/autodata/">Blog</a></p>
+  <p class="card-item__date">2026</p>
+</div>
+
+<div class="card-item">
   <h3 class="card-item__title">Launched Agentic Tool Use in Muse Spark</h3>
   <p class="card-item__desc">Excited to introduce <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> 🥑, the first in the Muse family of models from Meta Superintelligence Labs. Natively multimodal reasoning with tool-use, visual chain of thought, and multi-agent orchestration. Drove agentic tool use capabilities to <a href="https://labs.scale.com/leaderboard/mcp_atlas">SoTA</a>.</p>
   <p class="card-item__date">2026</p>
