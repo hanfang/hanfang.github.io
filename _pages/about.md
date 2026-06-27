@@ -32,7 +32,7 @@ news
     <h3 class="news-item__title">Launched Agentic Tool Use in Muse Spark</h3>
     <span class="news-item__year">2026</span>
   </div>
-  <p class="news-item__desc">Core contributor to Agents in <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> 🥑, driving agentic tool use to SoTA on <a href="https://labs.scale.com/leaderboard/mcp_atlas">MCP-Atlas</a>. Natively multimodal reasoning with tool-use, visual chain of thought, and multi-agent orchestration.</p>
+  <p class="news-item__desc">Core contributor to Agents in <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> 🥑, driving agentic tool use to SoTA on <a href="https://labs.scale.com/leaderboard/mcp_atlas">MCP-Atlas</a>. Natively multimodal reasoning with tool-use, and multi-agent orchestration.</p>
 </div>
 
 <div class="news-item">
