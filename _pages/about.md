@@ -9,9 +9,54 @@ redirect_from:
 
 Han Fang is an AI Research Scientist at Meta’s Superintelligence Labs, working at the frontier of Self Improvement & Agents. He founded Meta AI’s production post-training team and led production post-training for Llama 2 and Llama 3. He [launched Meta AI](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) in 2023 and scaled it to 1 billion MAU — driving integrated training runs, core capabilities, tool use, and data flywheel. Most recently, he is a core contributor to Agents in [Muse Spark](https://ai.meta.com/blog/introducing-muse-spark-msl/), driving agentic tool use to SoTA on [MCP-Atlas](https://labs.scale.com/leaderboard/mcp_atlas).
 
-Han holds a PhD in Applied Mathematics & Machine Learning, published in top-tier venues with 11K+ citations. He is a recipient of the President’s Award to Distinguished Doctoral Students, the Woo-Jong Kim Dissertation Award, and the Excellence in Research Award.
+Han holds a PhD in Applied Mathematics & Machine Learning, published in top-tier venues with 12K+ citations. He is a recipient of the President’s Award to Distinguished Doctoral Students, the Woo-Jong Kim Dissertation Award, and the Excellence in Research Award.
 
 [Google Scholar](https://scholar.google.com/citations?user=mQIqIVwAAAAJ) / [CV](/files/Han_Fang_CV.pdf) / [Linkedin](https://www.linkedin.com/in/hfang15/) / [Twitter](https://x.com/Han_Fang_)
+
+
+news
+======
+
+<div class="news-recent">
+
+<div class="news-item">
+  <div class="news-item__head">
+    <h3 class="news-item__title">Autodata: Automatic Data Scientist</h3>
+    <span class="news-item__year">2026</span>
+  </div>
+  <p class="news-item__desc">AI agents that function as data scientists, iteratively building high-quality training and evaluation datasets. Agentic Self-Instruct converts inference compute into better data. <a href="https://arxiv.org/abs/2606.25996">Paper</a> · <a href="https://facebookresearch.github.io/RAM/blogs/autodata/">Blog</a></p>
+</div>
+
+<div class="news-item">
+  <div class="news-item__head">
+    <h3 class="news-item__title">Launched Agentic Tool Use in Muse Spark</h3>
+    <span class="news-item__year">2026</span>
+  </div>
+  <p class="news-item__desc">Excited to introduce <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> 🥑, the first in the Muse family of models from Meta Superintelligence Labs. Natively multimodal reasoning with tool-use, visual chain of thought, and multi-agent orchestration. Drove agentic tool use capabilities to <a href="https://labs.scale.com/leaderboard/mcp_atlas">SoTA</a>.</p>
+</div>
+
+<div class="news-item">
+  <div class="news-item__head">
+    <h3 class="news-item__title">Meta AI reached 1 billion MAU</h3>
+    <span class="news-item__year">2025</span>
+  </div>
+  <p class="news-item__desc">Improved Meta AI's <a href="https://about.fb.com/news/2024/07/meta-ai-is-now-multilingual-more-creative-and-smarter/">multilinguality</a>, enabled roll-out to 12 languages and 40+ countries. <a href="https://ai.meta.com/blog/future-of-ai-built-with-llama/">Blog</a> · <a href="https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/">News</a></p>
+</div>
+
+</div>
+
+<div class="news-earlier">
+  <h4 class="news-earlier__label">Earlier</h4>
+  <ul class="news-compact">
+    <li><span class="news-compact__year">2024</span> <span class="news-compact__body">Launched voice mode and photo editing in Meta AI · <a href="https://about.fb.com/news/2024/09/metas-ai-product-news-connect/">Blog</a></span></li>
+    <li><span class="news-compact__year">2024</span> <span class="news-compact__body">Launched Llama 3 on Meta AI · <a href="https://arxiv.org/abs/2409.20370">Mixture of Judges</a> · <a href="https://ai.meta.com/blog/meta-llama-3-1/">Blog</a></span></li>
+    <li><span class="news-compact__year">2023</span> <span class="news-compact__body">Launched Meta AI with Llama 2 · <a href="https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/">Meta AI</a> · <a href="https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/">Talk at Connect</a></span></li>
+    <li><span class="news-compact__year">2021</span> <span class="news-compact__body">Meta AI Few-Shot Learner (FSL) · <a href="https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/">Blog</a></span></li>
+    <li><span class="news-compact__year">2020</span> <span class="news-compact__body">Training AI to detect hate speech · <a href="https://ai.meta.com/blog/training-ai-to-detect-hate-speech-in-the-real-world/">Blog</a></span></li>
+  </ul>
+</div>
+
+<p class="blog-more"><a href="/news/">View all news →</a></p>
 
 
 blog
@@ -40,62 +85,6 @@ blog
 </div>
 
 <p class="blog-more"><a href="/blogs/">View all posts →</a></p>
-
-
-news
-======
-
-<div class="card-list">
-
-<div class="card-item">
-  <h3 class="card-item__title">Autodata: Automatic Data Scientist</h3>
-  <p class="card-item__desc">AI agents that function as data scientists, iteratively building high-quality training and evaluation datasets. Agentic Self-Instruct converts inference compute into better data. <a href="https://facebookresearch.github.io/RAM/blogs/autodata/">Blog</a></p>
-  <p class="card-item__date">2026</p>
-</div>
-
-<div class="card-item">
-  <h3 class="card-item__title">Launched Agentic Tool Use in Muse Spark</h3>
-  <p class="card-item__desc">Excited to introduce <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> 🥑, the first in the Muse family of models from Meta Superintelligence Labs. Natively multimodal reasoning with tool-use, visual chain of thought, and multi-agent orchestration. Drove agentic tool use capabilities to <a href="https://labs.scale.com/leaderboard/mcp_atlas">SoTA</a>.</p>
-  <p class="card-item__date">2026</p>
-</div>
-
-<div class="card-item">
-  <h3 class="card-item__title">Meta AI reached 1 billion MAU</h3>
-  <p class="card-item__desc">Improved Meta AI's <a href="https://about.fb.com/news/2024/07/meta-ai-is-now-multilingual-more-creative-and-smarter/">multilinguality</a>, enabled roll-out to 12 languages and 40+ countries. <a href="https://ai.meta.com/blog/future-of-ai-built-with-llama/">Blog</a> · <a href="https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/">News</a></p>
-  <p class="card-item__date">2025</p>
-</div>
-
-<div class="card-item">
-  <h3 class="card-item__title">Launched voice mode and photo editing in Meta AI</h3>
-  <p class="card-item__desc">Launched updated Llama 3 model for voice mode. Improved Planner for photo editing with multimodal inputs. <a href="https://about.fb.com/news/2024/09/metas-ai-product-news-connect/">Blog</a></p>
-  <p class="card-item__date">Connect 2024</p>
-</div>
-
-<div class="card-item">
-  <h3 class="card-item__title">Launched Llama 3 on Meta AI</h3>
-  <p class="card-item__desc">Developed Meta AI's online RL with <a href="https://arxiv.org/abs/2409.20370">Mixture of Judges</a>, improving reasoning, instructions following, safety. <a href="https://ai.meta.com/blog/meta-llama-3-1/">Blog</a></p>
-  <p class="card-item__date">2024</p>
-</div>
-
-<div class="card-item">
-  <h3 class="card-item__title">Launched Meta AI with Llama 2</h3>
-  <p class="card-item__desc">Debut <a href="https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/">Meta AI</a> into Family of Apps. Created Orchestrator for tool use. <a href="https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/">My talk at Connect</a></p>
-  <p class="card-item__date">2023</p>
-</div>
-
-<div class="card-item">
-  <h3 class="card-item__title">Meta AI Few-Shot Learner (FSL)</h3>
-  <p class="card-item__desc">Developed FSL for detecting new forms of harmful content across 100+ languages. <a href="https://ai.meta.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/">Blog</a></p>
-  <p class="card-item__date">2021</p>
-</div>
-
-<div class="card-item">
-  <h3 class="card-item__title">Training AI to detect hate speech</h3>
-  <p class="card-item__desc">Built RL-based framework to E2E optimize hate speech classifiers. <a href="https://ai.meta.com/blog/training-ai-to-detect-hate-speech-in-the-real-world/">Blog</a></p>
-  <p class="card-item__date">2020</p>
-</div>
-
-</div>
 
 
 featured papers
