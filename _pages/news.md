@@ -16,7 +16,7 @@ A timeline of launches, research, and milestones.
 <article>
   <h2>Launched Agentic Tool Use in Muse Spark</h2>
   <p><strong>2026</strong></p>
-  <p>Excited to introduce <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> 🥑, the first in the Muse family of models from Meta Superintelligence Labs. Natively multimodal reasoning with tool-use, visual chain of thought, and multi-agent orchestration. Drove agentic tool use capabilities to <a href="https://labs.scale.com/leaderboard/mcp_atlas">SoTA</a>.</p>
+  <p>Core contributor to Agents in <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> 🥑, driving agentic tool use to SoTA on <a href="https://labs.scale.com/leaderboard/mcp_atlas">MCP-Atlas</a>. Natively multimodal reasoning with tool-use, visual chain of thought, and multi-agent orchestration.</p>
 </article>
 
 <article>
