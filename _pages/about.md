@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Han Fang is an AI Research Scientist at Meta’s Superintelligence Labs, working on recursive self improvement research and more broadly agentic capabilities. He founded Meta AI’s production post-training team and led production post-training for Llama 2 and Llama 3. He [launched Meta AI](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) in 2023 and scaled it to 1 billion MAU — driving integrated training runs, core capabilities, tool use, and data flywheel. Most recently, he is a core contributor to Agents in [Muse Spark](https://ai.meta.com/blog/introducing-muse-spark-msl/), driving agentic tool use to SoTA on [MCP-Atlas](https://labs.scale.com/leaderboard/mcp_atlas).
+Han Fang is an AI Research Scientist at Meta’s Superintelligence Labs, working on recursive self improvement research and more broadly agentic capabilities. He founded Meta AI’s production post-training team and led production post-training for Llama 2 and Llama 3. He [launched Meta AI](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) in 2023 and scaled it to 1 billion MAU — driving integrated training runs, core capabilities, tool use, and data flywheel. Most recently, he is a core contributor to Agents in [Muse Spark](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/) — developing self-improving agents that can recursively improve model's agentic capabilities, reaching SoTA on [MCP-Atlas](https://labs.scale.com/leaderboard/mcp_atlas) and frontier on [Toolathlon](https://toolathlon.xyz/docs/leaderboard).
 
 Han holds a PhD in Applied Mathematics & Machine Learning, published in top-tier venues with 12K+ citations. He is a recipient of the President’s Award to Distinguished Doctoral Students, the Woo-Jong Kim Dissertation Award, and the Excellence in Research Award.
 
@@ -29,10 +29,10 @@ news
 
 <div class="news-item">
   <div class="news-item__head">
-    <h3 class="news-item__title">Launched Agentic Tool Use in Muse Spark</h3>
+    <h3 class="news-item__title">Muse Spark Agents</h3>
     <span class="news-item__year">2026</span>
   </div>
-  <p class="news-item__desc">Core contributor to Agents in <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> 🥑, driving agentic tool use to SoTA on <a href="https://labs.scale.com/leaderboard/mcp_atlas">MCP-Atlas</a>. Natively multimodal reasoning with tool-use, and multi-agent orchestration.</p>
+  <p class="news-item__desc">Drove research to develop self-improving agents that can recursively improve model's agentic capabilities — SoTA on <a href="https://labs.scale.com/leaderboard/mcp_atlas">MCP-Atlas</a>, frontier on <a href="https://toolathlon.xyz/docs/leaderboard">Toolathlon</a>. Natively multimodal reasoning with tool-use and multi-agent orchestration. <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> · <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/">Muse Spark 1.1</a> · <a href="https://ai.meta.com/static-resource/muse-spark-1-1-evaluation-report">Eval Report</a></p>
 </div>
 
 <div class="news-item">

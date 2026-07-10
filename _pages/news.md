@@ -14,9 +14,9 @@ A timeline of launches, research, and milestones.
 </article>
 
 <article>
-  <h2>Launched Agentic Tool Use in Muse Spark</h2>
+  <h2>Muse Spark Agents</h2>
   <p><strong>2026</strong></p>
-  <p>Core contributor to Agents in <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> 🥑, driving agentic tool use to SoTA on <a href="https://labs.scale.com/leaderboard/mcp_atlas">MCP-Atlas</a>. Natively multimodal reasoning with tool-use, and multi-agent orchestration.</p>
+  <p>Drove research to develop self-improving agents that can recursively improve model's agentic capabilities — SoTA on <a href="https://labs.scale.com/leaderboard/mcp_atlas">MCP-Atlas</a>, frontier on <a href="https://toolathlon.xyz/docs/leaderboard">Toolathlon</a>. Natively multimodal reasoning with tool-use and multi-agent orchestration. <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> · <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/">Muse Spark 1.1</a> · <a href="https://ai.meta.com/static-resource/muse-spark-1-1-evaluation-report">Eval Report</a></p>
 </article>
 
 <article>
