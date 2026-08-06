@@ -32,7 +32,7 @@ news
     <h3 class="news-item__title">Muse Spark Agents</h3>
     <span class="news-item__year">2026</span>
   </div>
-  <p class="news-item__desc">Drove research to develop self-improving agents that can recursively improve model's agentic capabilities — SoTA on <a href="https://labs.scale.com/leaderboard/mcp_atlas">MCP-Atlas</a>, frontier on <a href="https://toolathlon.xyz/docs/leaderboard">Toolathlon</a>, and <a href="https://www.mercor.com/apex/apex-agents-leaderboard/">APEX-Agents</a>. Natively multimodal reasoning with tool-use and multi-agent orchestration. <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> · <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/">Muse Spark 1.1</a> · <a href="https://ai.meta.com/static-resource/muse-spark-1-1-evaluation-report">Eval Report</a></p>
+  <p class="news-item__desc">Drove research to develop self-improving agents that can recursively improve model's agentic capabilities — SoTA on <a href="https://labs.scale.com/leaderboard/mcp_atlas">MCP-Atlas</a>, frontier on <a href="https://toolathlon.xyz/docs/leaderboard">Toolathlon</a>, and <a href="https://www.mercor.com/apex/apex-agents-leaderboard/">APEX-Agents</a>. Natively multimodal reasoning with tool-use and multi-agent orchestration. <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> · <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/">Muse Spark 1.1</a> · <a href="https://developer.meta.com/ai/models/muse-spark/">Muse Spark 1.2</a> · <a href="https://ai.meta.com/static-resource/muse-spark-1-1-evaluation-report">Eval Report</a></p>
 </div>
 
 <div class="news-item">
