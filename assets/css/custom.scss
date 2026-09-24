@@ -263,15 +263,17 @@ img.author__avatar {
   line-height: 1.25;
 }
 
-.news-title-with-logo {
+.news-title-with-mascot {
   display: flex;
   align-items: center;
-  gap: 0.4rem;
+  gap: 0.6rem;
 }
 
-.news-item__logo {
-  width: 1.4em;
-  height: 1.4em;
+.news-item__mascot {
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: cover;
+  border-radius: 50%;
   flex-shrink: 0;
 }
 
