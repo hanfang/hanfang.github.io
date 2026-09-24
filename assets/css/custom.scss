@@ -263,6 +263,18 @@ img.author__avatar {
   line-height: 1.25;
 }
 
+.news-title-with-logo {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.news-item__logo {
+  width: 1.4em;
+  height: 1.4em;
+  flex-shrink: 0;
+}
+
 .news-item__year {
   flex-shrink: 0;
   font-size: 0.75rem;
@@ -408,4 +420,3 @@ img.author__avatar {
   z-index: 9999;
   transition: width 0.1s ease-out;
 }
-

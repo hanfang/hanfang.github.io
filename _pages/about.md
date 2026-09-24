@@ -21,7 +21,7 @@ news
 
 <div class="news-item">
   <div class="news-item__head">
-    <h3 class="news-item__title">Launched Muse, a Personal AI Agent</h3>
+    <h3 class="news-item__title news-title-with-logo"><img src="/images/muse-logo.svg" alt="" aria-hidden="true" class="news-item__logo">Launched Muse, a Personal AI Agent</h3>
     <span class="news-item__year">2026</span>
   </div>
   <p class="news-item__desc">Launched Muse, a secure and private personal AI agent that turns goals into action plans and completes tasks on people's behalf, powered by Muse Spark. <a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">Blog</a></p>

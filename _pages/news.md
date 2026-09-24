@@ -8,7 +8,7 @@ author_profile: true
 A timeline of launches, research, and milestones.
 
 <article>
-  <h2>Launched Muse, a Personal AI Agent</h2>
+  <h2 class="news-title-with-logo"><img src="/images/muse-logo.svg" alt="" aria-hidden="true" class="news-item__logo">Launched Muse, a Personal AI Agent</h2>
   <p><strong>2026</strong></p>
   <p>Launched Muse, a secure and private personal AI agent that turns goals into action plans and completes tasks on people's behalf, powered by Muse Spark. <a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">Blog</a></p>
 </article>
