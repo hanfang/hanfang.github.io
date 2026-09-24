@@ -21,6 +21,14 @@ news
 
 <div class="news-item">
   <div class="news-item__head">
+    <h3 class="news-item__title">Launched Muse, a Personal AI Agent</h3>
+    <span class="news-item__year">2026</span>
+  </div>
+  <p class="news-item__desc">Launched Muse, a secure and private personal AI agent that turns goals into action plans and completes tasks on people's behalf, powered by Muse Spark. <a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">Blog</a></p>
+</div>
+
+<div class="news-item">
+  <div class="news-item__head">
     <h3 class="news-item__title">Autodata: Automatic Data Scientist</h3>
     <span class="news-item__year">2026</span>
   </div>
@@ -35,19 +43,12 @@ news
   <p class="news-item__desc">Drove research to develop self-improving agents that can recursively improve model's agentic capabilities — SoTA on <a href="https://labs.scale.com/leaderboard/mcp_atlas">MCP-Atlas</a>, frontier on <a href="https://toolathlon.xyz/docs/leaderboard">Toolathlon</a> and <a href="https://zapier.com/benchmarks">Automation Bench</a>. <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> · <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/">Muse Spark 1.1</a> · <a href="https://developer.meta.com/ai/models/muse-spark/">Muse Spark 1.2</a> · <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3">Muse Spark 1.3</a> · <a href="https://ai.meta.com/static-resource/muse-spark-1-1-evaluation-report">Eval Report</a></p>
 </div>
 
-<div class="news-item">
-  <div class="news-item__head">
-    <h3 class="news-item__title">Meta AI reached 1 billion MAU</h3>
-    <span class="news-item__year">2025</span>
-  </div>
-  <p class="news-item__desc">Improved Meta AI's <a href="https://about.fb.com/news/2024/07/meta-ai-is-now-multilingual-more-creative-and-smarter/">multilinguality</a>, enabled roll-out to 12 languages and 40+ countries. <a href="https://ai.meta.com/blog/future-of-ai-built-with-llama/">Blog</a> · <a href="https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/">News</a></p>
-</div>
-
 </div>
 
 <div class="news-earlier">
   <h4 class="news-earlier__label">Earlier</h4>
   <ul class="news-compact">
+    <li><span class="news-compact__year">2025</span> <span class="news-compact__body">Meta AI reached 1 billion MAU · <a href="https://ai.meta.com/blog/future-of-ai-built-with-llama/">Blog</a> · <a href="https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/">News</a></span></li>
     <li><span class="news-compact__year">2024</span> <span class="news-compact__body">Launched voice mode and photo editing in Meta AI · <a href="https://about.fb.com/news/2024/09/metas-ai-product-news-connect/">Blog</a></span></li>
     <li><span class="news-compact__year">2024</span> <span class="news-compact__body">Launched Llama 3 on Meta AI · <a href="https://arxiv.org/abs/2409.20370">Mixture of Judges</a> · <a href="https://ai.meta.com/blog/meta-llama-3-1/">Blog</a></span></li>
     <li><span class="news-compact__year">2023</span> <span class="news-compact__body">Launched Meta AI with Llama 2 · <a href="https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/">Meta AI</a> · <a href="https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/">Talk at Connect</a></span></li>

@@ -8,6 +8,12 @@ author_profile: true
 A timeline of launches, research, and milestones.
 
 <article>
+  <h2>Launched Muse, a Personal AI Agent</h2>
+  <p><strong>2026</strong></p>
+  <p>Launched Muse, a secure and private personal AI agent that turns goals into action plans and completes tasks on people's behalf, powered by Muse Spark. <a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">Blog</a></p>
+</article>
+
+<article>
   <h2>Autodata: Automatic Data Scientist</h2>
   <p><strong>2026</strong></p>
   <p>AI agents that function as data scientists, iteratively building high-quality training and evaluation datasets. Agentic Self-Instruct converts inference compute into better data. <a href="https://arxiv.org/abs/2606.25996">Paper</a> · <a href="https://facebookresearch.github.io/RAM/blogs/autodata/">Blog</a></p>
