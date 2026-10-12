@@ -8,7 +8,7 @@ author_profile: true
 A timeline of launches, research, and milestones.
 
 <article>
-  <h2>Muse Wonder launch</h2>
+  <h2>🍉 Muse Wonder launch</h2>
   <p><strong>2026</strong></p>
   <p>Muse Wonder and Muse Wonder Full are frontier models with state-of-the-art results in personal and professional agents, memory, and coding. <a href="https://research.meta.ai/blog/muse-wonder">Blog</a></p>
 </article>
@@ -20,7 +20,7 @@ A timeline of launches, research, and milestones.
 </article>
 
 <article>
-  <h2>Muse Spark Agents</h2>
+  <h2>🥑 Muse Spark Agents</h2>
   <p><strong>2026</strong></p>
   <p>Drove research to develop self-improving agents that can recursively improve model's agentic capabilities — SoTA on <a href="https://labs.scale.com/leaderboard/mcp_atlas">MCP-Atlas</a>, frontier on <a href="https://toolathlon.xyz/docs/leaderboard">Toolathlon</a> and <a href="https://artificialanalysis.ai/evaluations/automationbench-aa">Automation Bench</a>. <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> · <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/">Muse Spark 1.1</a> · <a href="https://developer.meta.com/ai/models/muse-spark/">Muse Spark 1.2</a> · <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3">Muse Spark 1.3</a> · <a href="https://ai.meta.com/static-resource/muse-spark-1-1-evaluation-report">Eval Report</a></p>
 </article>
