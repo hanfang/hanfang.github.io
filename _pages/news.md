@@ -14,7 +14,7 @@ A timeline of launches, research, and milestones.
 </article>
 
 <article>
-  <h2 class="news-title-with-mascot"><img src="{{ '/assets/images/muse-mascot.png' | relative_url }}" alt="Muse mascot" class="news-item__mascot">Introducing Muse, a personal AI agent</h2>
+  <h2 class="news-title-with-mascot"><img src="{{ '/assets/images/muse-mascot-closeup.png' | relative_url }}" alt="Muse mascot" class="news-item__mascot">Introducing Muse, a personal AI agent</h2>
   <p><strong>2026</strong></p>
   <p>We shipped Muse that is powered by Muse Spark's SoTA agentic capabilities. <a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">Blog</a> · <a href="https://muse.ai">Try Muse here</a></p>
 </article>
