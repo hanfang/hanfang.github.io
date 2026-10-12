@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="90" viewBox="0 0 120 90" role="img" aria-label="Autodata research illustration">
+  <rect width="120" height="90" rx="4" fill="#eef5fb"/>
+  <rect x="12" y="17" width="28" height="32" rx="3" fill="#d4e7f5" stroke="#6a9bc2"/>
+  <path d="M18 25h16M18 31h16M18 37h11" stroke="#5889af" stroke-width="2" stroke-linecap="round"/>
+  <path d="M44 32h26m-7-6 7 6-7 6" fill="none" stroke="#4e81a8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="76" y="17" width="32" height="32" rx="3" fill="#c9dfd6" stroke="#568d75"/>
+  <path d="M83 37l6-7 5 4 7-9" fill="none" stroke="#4e856d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M93 55c-10 12-43 12-56 0m0 0 8 1m-8-1 2 8" fill="none" stroke="#6a9bc2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="60" y="79" text-anchor="middle" fill="#315574" font-family="Arial, sans-serif" font-size="12" font-weight="700">AUTODATA</text>
+</svg>

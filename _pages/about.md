@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Han Fang is an AI Researcher at Meta’s Superintelligence Labs, working on recursive self-improvement (RSI) and agent research. Previously, he founded Meta AI’s production post-training team, [launched Meta AI](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) in 2023, and scaled it to 1 billion MAU. He is a core contributor to agent capabilities in [Muse Spark](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/), the model behind Muse. He develops self-improving agents that recursively improve models’ agentic capabilities, reaching SoTA / frontier performance on [MCP-Atlas](https://labs.scale.com/leaderboard/mcp_atlas), [Toolathlon](https://toolathlon.xyz/docs/leaderboard), and [Automation Bench](https://zapier.com/benchmarks).
+Han Fang is an AI Researcher at Meta’s Superintelligence Labs, working on recursive self-improvement (RSI) and agent research. Previously, he founded Meta AI’s production post-training team, [launched Meta AI](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) in 2023, and scaled it to 1 billion MAU. He is a core contributor to agent capabilities in [Muse](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/) models. He develops self-improving agents that recursively improve models’ agentic capabilities, reaching SoTA / frontier performance on [MCP-Atlas](https://labs.scale.com/leaderboard/mcp_atlas), [Toolathlon](https://toolathlon.xyz/docs/leaderboard), and [Automation Bench](https://artificialanalysis.ai/evaluations/automationbench-aa).
 
 Han holds a PhD in Applied Mathematics & Machine Learning, published in top-tier venues with 11K+ citations. He is a recipient of the President’s Award to Distinguished Doctoral Students, the Woo-Jong Kim Dissertation Award, and the Excellence in Research Award.
 
@@ -21,6 +21,14 @@ news
 
 <div class="news-item">
   <div class="news-item__head">
+    <h3 class="news-item__title">Muse Wonder launch</h3>
+    <span class="news-item__year">2026</span>
+  </div>
+  <p class="news-item__desc">Muse Wonder and Muse Wonder Full are frontier models with state-of-the-art results in personal and professional agents, memory, and coding. <a href="https://research.meta.ai/blog/muse-wonder">Blog</a></p>
+</div>
+
+<div class="news-item">
+  <div class="news-item__head">
     <h3 class="news-item__title news-title-with-mascot"><img src="{{ '/assets/images/muse-mascot.png' | relative_url }}" alt="Muse mascot" class="news-item__mascot">Introducing Muse, a personal AI agent</h3>
     <span class="news-item__year">2026</span>
   </div>
@@ -29,18 +37,10 @@ news
 
 <div class="news-item">
   <div class="news-item__head">
-    <h3 class="news-item__title">Autodata: Automatic Data Scientist</h3>
-    <span class="news-item__year">2026</span>
-  </div>
-  <p class="news-item__desc">AI agents that function as data scientists, iteratively building high-quality training and evaluation datasets. Agentic Self-Instruct converts inference compute into better data. <a href="https://arxiv.org/abs/2606.25996">Paper</a> · <a href="https://facebookresearch.github.io/RAM/blogs/autodata/">Blog</a></p>
-</div>
-
-<div class="news-item">
-  <div class="news-item__head">
     <h3 class="news-item__title">Muse Spark Agents</h3>
     <span class="news-item__year">2026</span>
   </div>
-  <p class="news-item__desc">Drove research to develop self-improving agents that can recursively improve model's agentic capabilities — SoTA on <a href="https://labs.scale.com/leaderboard/mcp_atlas">MCP-Atlas</a>, frontier on <a href="https://toolathlon.xyz/docs/leaderboard">Toolathlon</a> and <a href="https://zapier.com/benchmarks">Automation Bench</a>. <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> · <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/">Muse Spark 1.1</a> · <a href="https://developer.meta.com/ai/models/muse-spark/">Muse Spark 1.2</a> · <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3">Muse Spark 1.3</a> · <a href="https://ai.meta.com/static-resource/muse-spark-1-1-evaluation-report">Eval Report</a></p>
+  <p class="news-item__desc">Drove research to develop self-improving agents that can recursively improve model's agentic capabilities — SoTA on <a href="https://labs.scale.com/leaderboard/mcp_atlas">MCP-Atlas</a>, frontier on <a href="https://toolathlon.xyz/docs/leaderboard">Toolathlon</a> and <a href="https://artificialanalysis.ai/evaluations/automationbench-aa">Automation Bench</a>. <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> · <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/">Muse Spark 1.1</a> · <a href="https://developer.meta.com/ai/models/muse-spark/">Muse Spark 1.2</a> · <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3">Muse Spark 1.3</a> · <a href="https://ai.meta.com/static-resource/muse-spark-1-1-evaluation-report">Eval Report</a></p>
 </div>
 
 </div>
@@ -92,6 +92,14 @@ featured papers
 ======
 
 <div class="paper-list">
+
+<div class="paper-item">
+  <img src="/images/paper-autodata.svg" alt="" class="paper-thumb">
+  <div class="paper-content">
+    <a href="https://arxiv.org/abs/2606.25996" class="paper-title">Autodata: An Agentic Data Scientist to Create High Quality Synthetic Data</a>
+    <p class="paper-meta">Ilia Kulikov, Chenxi Whitehouse, Tianhao Wu, Yixin Nie, Swarnadeep Saha, Eryk Helenowski, Weizhe Yuan, Olga Golovneva, Jack Lanchantin, Yoram Bachrach, Jakob Foerster, Xian Li, <strong>Han Fang</strong>, Sainbayar Sukhbaatar, Jason Weston · arXiv 2026 · <a href="https://facebookresearch.github.io/RAM/blogs/autodata/">Blog</a></p>
+  </div>
+</div>
 
 <div class="paper-item">
   <img src="/images/paper-gps.png" alt="" class="paper-thumb">

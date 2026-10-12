@@ -8,21 +8,21 @@ author_profile: true
 A timeline of launches, research, and milestones.
 
 <article>
-  <h2 class="news-title-with-mascot"><img src="https://muse.ai/landing/brand/hatch.jpg" alt="Muse mascot" class="news-item__mascot">Introducing Muse, a personal AI agent</h2>
+  <h2>Muse Wonder launch</h2>
+  <p><strong>2026</strong></p>
+  <p>Muse Wonder and Muse Wonder Full are frontier models with state-of-the-art results in personal and professional agents, memory, and coding. <a href="https://research.meta.ai/blog/muse-wonder">Blog</a></p>
+</article>
+
+<article>
+  <h2 class="news-title-with-mascot"><img src="{{ '/assets/images/muse-mascot.png' | relative_url }}" alt="Muse mascot" class="news-item__mascot">Introducing Muse, a personal AI agent</h2>
   <p><strong>2026</strong></p>
   <p>We shipped Muse that is powered by Muse Spark's SoTA agentic capabilities. <a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">Blog</a> · <a href="https://muse.ai">Try Muse here</a></p>
 </article>
 
 <article>
-  <h2>Autodata: Automatic Data Scientist</h2>
-  <p><strong>2026</strong></p>
-  <p>AI agents that function as data scientists, iteratively building high-quality training and evaluation datasets. Agentic Self-Instruct converts inference compute into better data. <a href="https://arxiv.org/abs/2606.25996">Paper</a> · <a href="https://facebookresearch.github.io/RAM/blogs/autodata/">Blog</a></p>
-</article>
-
-<article>
   <h2>Muse Spark Agents</h2>
   <p><strong>2026</strong></p>
-  <p>Drove research to develop self-improving agents that can recursively improve model's agentic capabilities — SoTA on <a href="https://labs.scale.com/leaderboard/mcp_atlas">MCP-Atlas</a>, frontier on <a href="https://toolathlon.xyz/docs/leaderboard">Toolathlon</a> and <a href="https://zapier.com/benchmarks">Automation Bench</a>. <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> · <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/">Muse Spark 1.1</a> · <a href="https://developer.meta.com/ai/models/muse-spark/">Muse Spark 1.2</a> · <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3">Muse Spark 1.3</a> · <a href="https://ai.meta.com/static-resource/muse-spark-1-1-evaluation-report">Eval Report</a></p>
+  <p>Drove research to develop self-improving agents that can recursively improve model's agentic capabilities — SoTA on <a href="https://labs.scale.com/leaderboard/mcp_atlas">MCP-Atlas</a>, frontier on <a href="https://toolathlon.xyz/docs/leaderboard">Toolathlon</a> and <a href="https://artificialanalysis.ai/evaluations/automationbench-aa">Automation Bench</a>. <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> · <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/">Muse Spark 1.1</a> · <a href="https://developer.meta.com/ai/models/muse-spark/">Muse Spark 1.2</a> · <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3">Muse Spark 1.3</a> · <a href="https://ai.meta.com/static-resource/muse-spark-1-1-evaluation-report">Eval Report</a></p>
 </article>
 
 <article>
