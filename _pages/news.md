@@ -8,9 +8,9 @@ author_profile: true
 A timeline of launches, research, and milestones.
 
 <article>
-  <h2>Muse Spark Open launch</h2>
+  <h2>🥑 Muse Spark Open launch</h2>
   <p><strong>2026</strong></p>
-  <p>Muse Spark Open brings open-weight, multimodal capabilities to coding and agentic work. <a href="https://research.meta.ai/blog/muse-spark-open">Blog</a></p>
+  <p>The Most Capable US Open‑Weight Model to Date. <a href="https://research.meta.ai/blog/muse-spark-open">Blog</a></p>
 </article>
 
 <article>
