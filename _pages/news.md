@@ -8,6 +8,12 @@ author_profile: true
 A timeline of launches, research, and milestones.
 
 <article>
+  <h2>Muse Spark Open launch</h2>
+  <p><strong>2026</strong></p>
+  <p>Muse Spark Open brings open-weight, multimodal capabilities to coding and agentic work. <a href="https://research.meta.ai/blog/muse-spark-open">Blog</a></p>
+</article>
+
+<article>
   <h2>🍉 Muse Wonder launch</h2>
   <p><strong>2026</strong></p>
   <p>Muse Wonder and Muse Wonder Full are frontier models with state-of-the-art results in personal and professional agents, memory, and coding. <a href="https://research.meta.ai/blog/muse-wonder">Blog</a></p>

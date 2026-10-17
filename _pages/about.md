@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Han Fang is an AI Researcher at Meta’s Superintelligence Labs, working on recursive self-improvement (RSI) and agent research. Previously, he founded Meta AI’s production post-training team, [launched Meta AI](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) in 2023, and scaled it to 1 billion MAU. He is a core contributor to agent capabilities in [Muse](https://research.meta.ai/blog/muse-wonder) models (Spark, Wonder). He develops self-improving agents that recursively improve models’ agentic capabilities, reaching SoTA / frontier performance on [MCP-Atlas](https://labs.scale.com/leaderboard/mcp_atlas), [Toolathlon](https://toolathlon.xyz/docs/leaderboard), and [Automation Bench](https://artificialanalysis.ai/evaluations/automationbench-aa).
+Han Fang is an AI Researcher at Meta’s Superintelligence Labs, working on recursive self-improvement (RSI) and agent research. Previously, he founded Meta AI’s production post-training team, [launched Meta AI](https://developers.facebook.com/videos/2023/building-metas-next-generation-ai-product-experiences-with-llama/) in 2023, and scaled it to 1 billion MAU. He is a core contributor to agent capabilities in [Muse](https://research.meta.ai/blog/muse-wonder) models (Spark, Wonder, [Open](https://research.meta.ai/blog/muse-spark-open)). He develops self-improving agents that recursively improve models’ agentic capabilities, reaching SoTA / frontier performance on [MCP-Atlas](https://labs.scale.com/leaderboard/mcp_atlas), [Toolathlon](https://toolathlon.xyz/docs/leaderboard), and [Automation Bench](https://artificialanalysis.ai/evaluations/automationbench-aa).
 
 Han holds a PhD in Applied Mathematics & Machine Learning, published in top-tier venues with 11K+ citations. He is a recipient of the President’s Award to Distinguished Doctoral Students, the Woo-Jong Kim Dissertation Award, and the Excellence in Research Award.
 
@@ -18,6 +18,14 @@ news
 ======
 
 <div class="news-recent">
+
+<div class="news-item">
+  <div class="news-item__head">
+    <h3 class="news-item__title">Muse Spark Open launch</h3>
+    <span class="news-item__year">2026</span>
+  </div>
+  <p class="news-item__desc">Muse Spark Open brings open-weight, multimodal capabilities to coding and agentic work. <a href="https://research.meta.ai/blog/muse-spark-open">Blog</a></p>
+</div>
 
 <div class="news-item">
   <div class="news-item__head">
