@@ -10,7 +10,7 @@ A timeline of launches, research, and milestones.
 <article>
   <h2>🥑 Muse Spark Open launch</h2>
   <p><strong>2026</strong></p>
-  <p>The Most Capable US Open‑Weight Model to Date. <a href="https://research.meta.ai/blog/muse-spark-open">Blog</a></p>
+  <p>The Most Capable US Open‑Weight Model to Date, <strong>bringing leading agentic capabilities to your desktop</strong>. <a href="https://research.meta.ai/blog/muse-spark-open">Blog</a></p>
 </article>
 
 <article>

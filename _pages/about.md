@@ -24,7 +24,7 @@ news
     <h3 class="news-item__title">🥑 Muse Spark Open launch</h3>
     <span class="news-item__year">2026</span>
   </div>
-  <p class="news-item__desc">The Most Capable US Open‑Weight Model to Date. <a href="https://research.meta.ai/blog/muse-spark-open">Blog</a></p>
+  <p class="news-item__desc">The Most Capable US Open‑Weight Model to Date, <strong>bringing leading agentic capabilities to your desktop</strong>. <a href="https://research.meta.ai/blog/muse-spark-open">Blog</a></p>
 </div>
 
 <div class="news-item">
