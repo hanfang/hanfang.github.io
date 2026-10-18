@@ -8,9 +8,9 @@ author_profile: true
 A timeline of launches, research, and milestones.
 
 <article>
-  <h2>🥑 Muse Spark Open launch</h2>
+  <h2><img src="{{ '/assets/images/avocado-open-box.svg' | relative_url }}" alt="Avocado in an open box" class="news-item__open-avocado">Muse Spark Open launch</h2>
   <p><strong>2026</strong></p>
-  <p>The Most Capable US Open‑Weight Model to Date, <strong>bringing leading agentic capabilities to your desktop</strong>. <a href="https://research.meta.ai/blog/muse-spark-open">Blog</a></p>
+  <p>The Most Capable US Open‑Weight Model to Date, bringing leading agentic capabilities to your desktop. <a href="https://research.meta.ai/blog/muse-spark-open">Blog</a></p>
 </article>
 
 <article>
@@ -28,7 +28,7 @@ A timeline of launches, research, and milestones.
 <article>
   <h2>🥑 Muse Spark Agents</h2>
   <p><strong>2026</strong></p>
-  <p>Drove research to develop self-improving agents that can recursively improve model's agentic capabilities — SoTA on <a href="https://labs.scale.com/leaderboard/mcp_atlas">MCP-Atlas</a>, frontier on <a href="https://toolathlon.xyz/docs/leaderboard">Toolathlon</a> and <a href="https://artificialanalysis.ai/evaluations/automationbench-aa">Automation Bench</a>. <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> · <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/">Muse Spark 1.1</a> · <a href="https://developer.meta.com/ai/models/muse-spark/">Muse Spark 1.2</a> · <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3">Muse Spark 1.3</a> · <a href="https://ai.meta.com/static-resource/muse-spark-1-1-evaluation-report">Eval Report</a></p>
+  <p>Drove research to develop self-improving agents that can recursively improve model's agentic capabilities, reaching SoTA on <a href="https://labs.scale.com/leaderboard/mcp_atlas">MCP-Atlas</a>, frontier on <a href="https://toolathlon.xyz/docs/leaderboard">Toolathlon</a> and <a href="https://artificialanalysis.ai/evaluations/automationbench-aa">Automation Bench</a>. <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Muse Spark</a> · <a href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/">Muse Spark 1.1</a> · <a href="https://developer.meta.com/ai/models/muse-spark/">Muse Spark 1.2</a> · <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3">Muse Spark 1.3</a> · <a href="https://ai.meta.com/static-resource/muse-spark-1-1-evaluation-report">Eval Report</a></p>
 </article>
 
 <article>

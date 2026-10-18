@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">Avocado in an open box</title>
+  <path d="M24 4c-4.7 0-7.2 3.5-7.8 7.7-.4 2.9-1.5 4.6-3.6 7.4-1.8 2.5-2.5 4.8-2.1 7.3.7 5 5.3 8.5 11.5 8.5S34.8 29.5 35.5 24.5c.4-2.5-.3-4.8-2.1-7.3-2.1-2.8-3.2-4.5-3.6-7.4C31.2 7.5 28.7 4 24 4z" fill="#4d8d46" stroke="#306632" stroke-width="1.5"/>
+  <path d="M24 8c-3 0-4.4 2.4-4.8 5.4-.3 2.2-1.2 3.9-2.8 6.1-1.4 2-1.9 3.6-1.6 5.3.5 3.5 3.9 5.9 9.2 5.9s8.7-2.4 9.2-5.9c.3-1.7-.2-3.3-1.6-5.3-1.6-2.2-2.5-3.9-2.8-6.1C28.4 10.4 27 8 24 8z" fill="#d6eaa0"/>
+  <ellipse cx="24" cy="23.5" rx="5.3" ry="5.7" fill="#a65f36"/>
+  <ellipse cx="22.5" cy="21.7" rx="1.5" ry="1" fill="#c98752" opacity=".7"/>
+  <path d="M11 26h26v14H11z" fill="#e2ad6c" stroke="#956132" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="M11 26 5 20 1 29l10 5 7-8zm26 0 6-6 4 9-10 5-7-8z" fill="#f1c994" stroke="#956132" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="M24 28v11" stroke="#bd8850" stroke-width="1"/>
+</svg>
