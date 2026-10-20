@@ -102,7 +102,15 @@ featured papers
 <div class="paper-list">
 
 <div class="paper-item">
-  <img src="/images/paper-autodata.svg" alt="" class="paper-thumb">
+  <img src="/images/paper-glimmer-figure2.png" alt="Figure 2: benchmark comparison of Muse Glimmer-30B, Gemma4-31B, and Qwen3.6-27B" class="paper-thumb paper-thumb--contain">
+  <div class="paper-content">
+    <a href="https://ai.meta.com/research/publications/muse-glimmer-30b-an-on-device-agentic-model/" class="paper-title">Muse Glimmer 30B: An On-Device Agentic Model</a>
+    <p class="paper-meta">Muse Glimmer team · arXiv 2026</p>
+  </div>
+</div>
+
+<div class="paper-item">
+  <img src="/images/paper-autodata-figure.png" alt="Autodata workflow: an LLM agent creates and analyzes synthetic data, iterating and improving itself" class="paper-thumb paper-thumb--contain">
   <div class="paper-content">
     <a href="https://arxiv.org/abs/2606.25996" class="paper-title">Autodata: An Agentic Data Scientist to Create High Quality Synthetic Data</a>
     <p class="paper-meta">Ilia Kulikov, Chenxi Whitehouse, Tianhao Wu, Yixin Nie, Swarnadeep Saha, Eryk Helenowski, Weizhe Yuan, Olga Golovneva, Jack Lanchantin, Yoram Bachrach, Jakob Foerster, Xian Li, <strong>Han Fang</strong>, Sainbayar Sukhbaatar, Jason Weston · arXiv 2026 · <a href="https://facebookresearch.github.io/RAM/blogs/autodata/">Blog</a></p>

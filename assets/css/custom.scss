@@ -382,6 +382,11 @@ img.author__avatar {
   background: var(--global-border-color, #e1e1e1);
 }
 
+.paper-thumb--contain {
+  object-fit: contain;
+  background: #fff;
+}
+
 .paper-content {
   flex: 1;
   min-width: 0;
